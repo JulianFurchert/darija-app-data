@@ -1,0 +1,2670 @@
+[
+  {
+    "id": "f1ab85feede5",
+    "darija_latin": [
+      "jamal",
+      "jamaal"
+    ],
+    "darija_ar": "جمال",
+    "class": "noun",
+    "en": [
+      "beauty"
+    ],
+    "de": [
+      "Schönheit"
+    ]
+  },
+  {
+    "id": "5126d6ab877a",
+    "darija_latin": [
+      "riwa2i",
+      "riwaa2i"
+    ],
+    "darija_ar": "روائي",
+    "class": "noun",
+    "en": [
+      "novelist"
+    ],
+    "de": [
+      "Romanautor"
+    ]
+  },
+  {
+    "id": "8f9d84212bb4",
+    "darija_latin": [
+      "ofo9i",
+      "ofoqi"
+    ],
+    "darija_ar": "أُفقي",
+    "class": "adjective",
+    "en": [
+      "horizontal"
+    ],
+    "de": [
+      "horizontal"
+    ]
+  },
+  {
+    "id": "dfb7f89f150a",
+    "darija_latin": [
+      "3amoudi",
+      "3amodi"
+    ],
+    "darija_ar": "عمودي",
+    "class": "adjective",
+    "en": [
+      "vertical"
+    ],
+    "de": [
+      "vertikal"
+    ]
+  },
+  {
+    "id": "c3eed47aae6f",
+    "darija_latin": [
+      "nsijam",
+      "insijam"
+    ],
+    "darija_ar": "نسجام",
+    "class": "noun",
+    "en": [
+      "harmony"
+    ],
+    "de": [
+      "Harmonie"
+    ]
+  },
+  {
+    "id": "48343b4943d9",
+    "darija_latin": [
+      "tamatoul",
+      "tamatol",
+      "tamathoul"
+    ],
+    "darija_ar": "تماتل",
+    "class": "noun",
+    "en": [
+      "symmetry"
+    ],
+    "de": [
+      "Symmetrie"
+    ]
+  },
+  {
+    "id": "afa1e5c31ed3",
+    "darija_latin": [
+      "bou3d",
+      "bo3d"
+    ],
+    "darija_ar": "بعد",
+    "class": "noun",
+    "en": [
+      "dimension"
+    ],
+    "de": [
+      "Dimension"
+    ]
+  },
+  {
+    "id": "e32d947e7961",
+    "darija_latin": [
+      "sellan",
+      "sllan"
+    ],
+    "darija_ar": "سلّان",
+    "class": "noun",
+    "en": [
+      "absence"
+    ],
+    "de": [
+      "Abwesenheit"
+    ]
+  },
+  {
+    "id": "3d1a75ffcb46",
+    "darija_latin": [
+      "ka2aaba",
+      "ka2aba"
+    ],
+    "darija_ar": "كآبة",
+    "class": "noun",
+    "en": [
+      "depression"
+    ],
+    "de": [
+      "Depression"
+    ]
+  },
+  {
+    "id": "1054beb04e64",
+    "darija_latin": [
+      "sa3ada",
+      "saaada"
+    ],
+    "darija_ar": "سعادة",
+    "class": "noun",
+    "en": [
+      "happiness"
+    ],
+    "de": [
+      "Glück"
+    ]
+  },
+  {
+    "id": "1cd67f66a03e",
+    "darija_latin": [
+      "S8D",
+      "Sa8D",
+      "Se8D",
+      "SahD"
+    ],
+    "darija_ar": "صهض",
+    "class": "noun",
+    "en": [
+      "heat"
+    ],
+    "de": [
+      "Wärme"
+    ]
+  },
+  {
+    "id": "6af25935b4cb",
+    "darija_latin": [
+      "tanwi3",
+      "tenwi3"
+    ],
+    "darija_ar": "تنويع",
+    "class": "noun",
+    "en": [
+      "diversification"
+    ],
+    "de": [
+      "Diversifikation"
+    ]
+  },
+  {
+    "id": "2b794d7678d0",
+    "darija_latin": [
+      "nkimash",
+      "nkimach"
+    ],
+    "darija_ar": "انكماش",
+    "class": "noun",
+    "en": [
+      "deflation"
+    ],
+    "de": [
+      "Deflation"
+    ]
+  },
+  {
+    "id": "dd72db1826b6",
+    "darija_latin": [
+      "khalifa",
+      "5alifa"
+    ],
+    "darija_ar": "خليفة",
+    "class": "noun",
+    "en": [
+      "caliph"
+    ],
+    "de": [
+      "Kalif"
+    ]
+  },
+  {
+    "id": "a46869a30315",
+    "darija_latin": [
+      "3zrayl",
+      "3zaryn"
+    ],
+    "darija_ar": "عزرايل",
+    "class": "noun",
+    "en": [
+      "azrael"
+    ],
+    "de": [
+      "Asrael"
+    ]
+  },
+  {
+    "id": "b6b9e2ebc52f",
+    "darija_latin": [
+      "nou7",
+      "nouh"
+    ],
+    "darija_ar": "نوح",
+    "class": "noun",
+    "en": [
+      "noah"
+    ],
+    "de": [
+      "Noah"
+    ]
+  },
+  {
+    "id": "4984f6d9d33c",
+    "darija_latin": [
+      "SSa7aba",
+      "Sa7aba"
+    ],
+    "darija_ar": "الصحابة",
+    "class": "noun",
+    "en": [
+      "companions of the prophet"
+    ],
+    "de": [
+      "Gefährten"
+    ]
+  },
+  {
+    "id": "3a5539122bcc",
+    "darija_latin": [
+      "mo9ddas",
+      "mo9addas"
+    ],
+    "darija_ar": "مقدّس",
+    "class": "noun",
+    "en": [
+      "holy"
+    ],
+    "de": [
+      "Heiligkeit"
+    ]
+  },
+  {
+    "id": "b5eb9e60612a",
+    "darija_latin": [
+      "khrchouf",
+      "kherchouf",
+      "kharchof",
+      "khrchof"
+    ],
+    "darija_ar": "خرشوف",
+    "class": "noun",
+    "en": [
+      "cardoon"
+    ],
+    "de": [
+      "Artischocke"
+    ]
+  },
+  {
+    "id": "c38690845c81",
+    "darija_latin": [
+      "swi8la",
+      "swihla",
+      "souihla"
+    ],
+    "darija_ar": "سويهلة",
+    "class": "noun",
+    "en": [
+      "melon"
+    ],
+    "de": [
+      "Melone"
+    ]
+  },
+  {
+    "id": "0385277680b8",
+    "darija_latin": [
+      "rzzt l9aDi",
+      "razzat l9aDi",
+      "rezzat l9aDi"
+    ],
+    "darija_ar": "رزّة لقاضي",
+    "class": "noun",
+    "en": [
+      "razzat el cadi"
+    ],
+    "de": [
+      "Richterstuhl"
+    ]
+  },
+  {
+    "id": "5be9081bf4fc",
+    "darija_latin": [
+      "bortoghal",
+      "lbortoghal"
+    ],
+    "darija_ar": "برتغال",
+    "class": "noun",
+    "en": [
+      "portugal"
+    ],
+    "de": [
+      "Portugal"
+    ]
+  },
+  {
+    "id": "81a278d271ac",
+    "darija_latin": [
+      "moritania",
+      "mouritania"
+    ],
+    "darija_ar": "موريتانيا",
+    "class": "noun",
+    "en": [
+      "mauritania"
+    ],
+    "de": [
+      "Mauretanien"
+    ]
+  },
+  {
+    "id": "5f8af4771a31",
+    "darija_latin": [
+      "9niTra",
+      "qniTra"
+    ],
+    "darija_ar": "قنيطرة",
+    "class": "noun",
+    "en": [
+      "kenitra"
+    ],
+    "de": [
+      "Kenitra"
+    ]
+  },
+  {
+    "id": "4559589a8c61",
+    "darija_latin": [
+      "asfi",
+      "safi"
+    ],
+    "darija_ar": "أسفي",
+    "class": "noun",
+    "en": [
+      "safi"
+    ],
+    "de": [
+      "rein"
+    ]
+  },
+  {
+    "id": "eeb4924d1e9c",
+    "darija_latin": [
+      "mo7mmadia",
+      "mohammadia",
+      "mo7mmedia",
+      "mohmmedia"
+    ],
+    "darija_ar": "المحمدية",
+    "class": "noun",
+    "en": [
+      "mohammedia"
+    ],
+    "de": [
+      "Mohammedstadt"
+    ]
+  },
+  {
+    "id": "649d15bfbea8",
+    "darija_latin": [
+      "khribga",
+      "khouribga",
+      "khoribga"
+    ],
+    "darija_ar": "خريبڭة",
+    "class": "noun",
+    "en": [
+      "khouribga"
+    ],
+    "de": [
+      "Khouribga"
+    ]
+  },
+  {
+    "id": "3b1800f501d1",
+    "darija_latin": [
+      "bnimllal",
+      "bni mllal",
+      "bni mellal",
+      "bani mellal"
+    ],
+    "darija_ar": "بني ملال",
+    "class": "noun",
+    "en": [
+      "beni mellal"
+    ],
+    "de": [
+      "Beni Mellal"
+    ]
+  },
+  {
+    "id": "72821407be82",
+    "darija_latin": [
+      "nnador",
+      "nador"
+    ],
+    "darija_ar": "الناظور",
+    "class": "noun",
+    "en": [
+      "nador"
+    ],
+    "de": [
+      "Nador"
+    ]
+  },
+  {
+    "id": "48056495e66e",
+    "darija_latin": [
+      "dar bo3zza",
+      "dar bouazza",
+      "darbo3zza",
+      "dar bo3za"
+    ],
+    "darija_ar": "دار بوعزّة",
+    "class": "noun",
+    "en": [
+      "dar bouazza"
+    ],
+    "de": [
+      "Dar Bouazza"
+    ]
+  },
+  {
+    "id": "8a5c586afb05",
+    "darija_latin": [
+      "berrchid",
+      "brrchid",
+      "brchid"
+    ],
+    "darija_ar": "برشيد",
+    "class": "noun",
+    "en": [
+      "berrechid"
+    ],
+    "de": [
+      "Berrechid"
+    ]
+  },
+  {
+    "id": "b3c9a3667e20",
+    "darija_latin": [
+      "khmisat",
+      "khemisset",
+      "khomisat",
+      "lkhmisat"
+    ],
+    "darija_ar": "الخميسات",
+    "class": "noun",
+    "en": [
+      "khemisset"
+    ],
+    "de": [
+      "Khemisset"
+    ]
+  },
+  {
+    "id": "0fdd1bb21ab5",
+    "darija_latin": [
+      "inzggan",
+      "inzegane",
+      "inezgane",
+      "inezgan"
+    ],
+    "darija_ar": "إنزڭّان",
+    "class": "noun",
+    "en": [
+      "inezgane"
+    ],
+    "de": [
+      "Ungeziefer"
+    ]
+  },
+  {
+    "id": "8752533333f9",
+    "darija_latin": [
+      "l3raich",
+      "l3raych",
+      "laaraich"
+    ],
+    "darija_ar": "لعرايش",
+    "class": "noun",
+    "en": [
+      "larache"
+    ],
+    "de": [
+      "Larache"
+    ]
+  },
+  {
+    "id": "af6425c0c623",
+    "darija_latin": [
+      "khnifra",
+      "khonifra",
+      "khenifra"
+    ],
+    "darija_ar": "خنيفرة",
+    "class": "noun",
+    "en": [
+      "khenifra"
+    ],
+    "de": [
+      "Khenifra"
+    ]
+  },
+  {
+    "id": "d50031457fac",
+    "darija_latin": [
+      "taourirt",
+      "tawrirt"
+    ],
+    "darija_ar": "تاوريرت",
+    "class": "noun",
+    "en": [
+      "taourirt"
+    ],
+    "de": [
+      "Taourirt"
+    ]
+  },
+  {
+    "id": "881ae421d0a8",
+    "darija_latin": [
+      "boskkora",
+      "boskora",
+      "bouskoura",
+      "bouskora"
+    ],
+    "darija_ar": "بوسكّورة",
+    "class": "noun",
+    "en": [
+      "bouskoura"
+    ],
+    "de": [
+      "Bouskoura"
+    ]
+  },
+  {
+    "id": "80568ea70163",
+    "darija_latin": [
+      "lf9ih bn Sal7",
+      "f9ih bn Sal7",
+      "lf9ih ben sale7",
+      "f9ih ben Salh"
+    ],
+    "darija_ar": "لفقيه بن صالح",
+    "class": "noun",
+    "en": [
+      "fqih ben saleh"
+    ],
+    "de": [
+      "Fqihbensaleh"
+    ]
+  },
+  {
+    "id": "531b2f7f5963",
+    "darija_latin": [
+      "dchira",
+      "dcheira",
+      "dchyra"
+    ],
+    "darija_ar": "دشيرة",
+    "class": "noun",
+    "en": [
+      "dcheira"
+    ],
+    "de": [
+      "Dachrinne"
+    ]
+  },
+  {
+    "id": "b8803ad876a0",
+    "darija_latin": [
+      "wadzm",
+      "wad zem",
+      "ouad zem",
+      "oued zem"
+    ],
+    "darija_ar": "واد زم",
+    "class": "noun",
+    "en": [
+      "oued zem"
+    ],
+    "de": [
+      "Ouedzem"
+    ]
+  },
+  {
+    "id": "ea795b3e8b10",
+    "darija_latin": [
+      "9l3a tsraghna",
+      "9el3a t sraghna",
+      "9al3a tsraghna",
+      "kalaa tsraghna"
+    ],
+    "darija_ar": "قلعة ت سراغنة",
+    "class": "noun",
+    "en": [
+      "kalaa sraghna"
+    ],
+    "de": [
+      "Kunstschaffende"
+    ]
+  },
+  {
+    "id": "218ee46844b5",
+    "darija_latin": [
+      "sidi sliman",
+      "sidi slimane"
+    ],
+    "darija_ar": "سيدي سليمان",
+    "class": "noun",
+    "en": [
+      "sidi slimane"
+    ],
+    "de": [
+      "Sidi Slimane"
+    ]
+  },
+  {
+    "id": "03d74637cc84",
+    "darija_latin": [
+      "rrachidia",
+      "errachidia"
+    ],
+    "darija_ar": "الراشيدية",
+    "class": "noun",
+    "en": [
+      "errachidia"
+    ],
+    "de": [
+      "Errachidia"
+    ]
+  },
+  {
+    "id": "c1414ead87f8",
+    "darija_latin": [
+      "grsif",
+      "guersif",
+      "garsif",
+      "guarsif"
+    ],
+    "darija_ar": "ڭرسيف",
+    "class": "noun",
+    "en": [
+      "guercif"
+    ],
+    "de": [
+      "Guercif"
+    ]
+  },
+  {
+    "id": "ee07cb773cdb",
+    "darija_latin": [
+      "wlad tayma",
+      "oulad teima",
+      "ouled teima",
+      "oulad taima"
+    ],
+    "darija_ar": "ولاد تايمة",
+    "class": "noun",
+    "en": [
+      "oulad teima"
+    ],
+    "de": [
+      "Sohn"
+    ]
+  },
+  {
+    "id": "679f115b2218",
+    "darija_latin": [
+      "ben grir",
+      "bngrir",
+      "bengrir",
+      "ben guerir"
+    ],
+    "darija_ar": "بن ڭرير",
+    "class": "noun",
+    "en": [
+      "ben guerir"
+    ],
+    "de": [
+      "Heilung"
+    ]
+  },
+  {
+    "id": "c701ac3575ce",
+    "darija_latin": [
+      "tiflt",
+      "tifelt"
+    ],
+    "darija_ar": "تيفلت",
+    "class": "noun",
+    "en": [
+      "tifelt"
+    ],
+    "de": [
+      "Tifelt"
+    ]
+  },
+  {
+    "id": "9956c147aff3",
+    "darija_latin": [
+      "Sfro",
+      "sfrou",
+      "sefrou"
+    ],
+    "darija_ar": "صفرو",
+    "class": "noun",
+    "en": [
+      "sefrou"
+    ],
+    "de": [
+      "Sefrou"
+    ]
+  },
+  {
+    "id": "33775d92a52b",
+    "darija_latin": [
+      "Swira",
+      "SSwira",
+      "souira",
+      "essawira"
+    ],
+    "darija_ar": "الصويرة",
+    "class": "noun",
+    "en": [
+      "essaouira"
+    ],
+    "de": [
+      "Essaouira"
+    ]
+  },
+  {
+    "id": "47a256755397",
+    "darija_latin": [
+      "sidi 9assem",
+      "sidi 9asm",
+      "sidi 9asem"
+    ],
+    "darija_ar": "سيدي قاسم",
+    "class": "noun",
+    "en": [
+      "sidi kacem"
+    ],
+    "de": [
+      "Sidi Kacem"
+    ]
+  },
+  {
+    "id": "4db734686e96",
+    "darija_latin": [
+      "TanTan",
+      "Tan Tan"
+    ],
+    "darija_ar": "طانطان",
+    "class": "noun",
+    "en": [
+      "tantan"
+    ],
+    "de": [
+      "Tamtam"
+    ]
+  },
+  {
+    "id": "03f0d4df0486",
+    "darija_latin": [
+      "youssoufia",
+      "yousoufia",
+      "yosofia",
+      "lyousoufia"
+    ],
+    "darija_ar": "اليوسوفية",
+    "class": "noun",
+    "en": [
+      "youssoufia"
+    ],
+    "de": [
+      "Youssoufia"
+    ]
+  },
+  {
+    "id": "98461cc9b4e8",
+    "darija_latin": [
+      "l8rawiyin",
+      "lahraouiyine",
+      "la8rawiyin"
+    ],
+    "darija_ar": "لهراويين",
+    "class": "noun",
+    "en": [
+      "lahraouyine"
+    ],
+    "de": [
+      "Lahraouyine"
+    ]
+  },
+  {
+    "id": "225cf2af091e",
+    "darija_latin": [
+      "3in 7rrouda",
+      "3in 7arouda",
+      "3ayn 7errouda"
+    ],
+    "darija_ar": "عين حرّودة",
+    "class": "noun",
+    "en": [
+      "ain harrouda"
+    ],
+    "de": [
+      "Ainharrouda"
+    ]
+  },
+  {
+    "id": "0e3f09522590",
+    "darija_latin": [
+      "Skhirat",
+      "SSkhirat"
+    ],
+    "darija_ar": "صخيرات",
+    "class": "noun",
+    "en": [
+      "Skhirat"
+    ],
+    "de": [
+      "Skhirat"
+    ]
+  },
+  {
+    "id": "76ec35f417c4",
+    "darija_latin": [
+      "wazzan",
+      "ouazzan"
+    ],
+    "darija_ar": "وزّان",
+    "class": "noun",
+    "en": [
+      "ouazzane"
+    ],
+    "de": [
+      "Ouazzane"
+    ]
+  },
+  {
+    "id": "905f1b431d54",
+    "darija_latin": [
+      "bnsliman",
+      "bensliman",
+      "benslimane",
+      "ben sliman"
+    ],
+    "darija_ar": "بنسليمان",
+    "class": "noun",
+    "en": [
+      "benslimane"
+    ],
+    "de": [
+      "Benslimane"
+    ]
+  },
+  {
+    "id": "e6369b7199f2",
+    "darija_latin": [
+      "l7ouceima",
+      "lhouceima",
+      "l7ousayma",
+      "l7oucima"
+    ],
+    "darija_ar": "لحسيمة",
+    "class": "noun",
+    "en": [
+      "al houceima"
+    ],
+    "de": [
+      "Alhucemas"
+    ]
+  },
+  {
+    "id": "fafca12c9c64",
+    "darija_latin": [
+      "bni nsar",
+      "beni ansar",
+      "beni nsar",
+      "bni ansar"
+    ],
+    "darija_ar": "بني نصار",
+    "class": "noun",
+    "en": [
+      "beni ansar"
+    ],
+    "de": [
+      "Befreier"
+    ]
+  },
+  {
+    "id": "3f108777c869",
+    "darija_latin": [
+      "sidi bennour",
+      "sidibnnour",
+      "sidi benour",
+      "sidi benor"
+    ],
+    "darija_ar": "سيدي بنّور",
+    "class": "noun",
+    "en": [
+      "sidi bennour"
+    ],
+    "de": [
+      "SidiBennour"
+    ]
+  },
+  {
+    "id": "1d99f2a36315",
+    "darija_latin": [
+      "midelt",
+      "midlt"
+    ],
+    "darija_ar": "ميدلت",
+    "class": "noun",
+    "en": [
+      "midelt"
+    ],
+    "de": [
+      "Midelt"
+    ]
+  },
+  {
+    "id": "75664e43cfaa",
+    "darija_latin": [
+      "azro",
+      "azrou"
+    ],
+    "darija_ar": "أزرو",
+    "class": "noun",
+    "en": [
+      "azrou"
+    ],
+    "de": [
+      "Azur"
+    ]
+  },
+  {
+    "id": "98d0e9f117b5",
+    "darija_latin": [
+      "limn",
+      "limen",
+      "liman"
+    ],
+    "darija_ar": "ليمن",
+    "class": "noun",
+    "en": [
+      "right"
+    ],
+    "de": [
+      "Recht"
+    ]
+  },
+  {
+    "id": "54e5831869ed",
+    "darija_latin": [
+      "saidia",
+      "saaidia"
+    ],
+    "darija_ar": "سعيدية",
+    "class": "noun",
+    "en": [
+      "saidia"
+    ],
+    "de": [
+      "Hilfe"
+    ]
+  },
+  {
+    "id": "6447dd0299a8",
+    "darija_latin": [
+      "jasad",
+      "jassad"
+    ],
+    "darija_ar": "جسد",
+    "class": "noun",
+    "en": [
+      "body"
+    ],
+    "de": [
+      "Körper"
+    ]
+  },
+  {
+    "id": "0825486a6896",
+    "darija_latin": [
+      "chwarb",
+      "chouarb",
+      "chwareb"
+    ],
+    "darija_ar": "شوارب",
+    "class": "noun",
+    "en": [
+      "lips"
+    ],
+    "de": [
+      "Lippen"
+    ]
+  },
+  {
+    "id": "e7cd3b367416",
+    "darija_latin": [
+      "9rjoTa",
+      "9arjoTa"
+    ],
+    "darija_ar": "قرجوطة",
+    "class": "noun",
+    "en": [
+      "throat"
+    ],
+    "de": [
+      "Hals"
+    ]
+  },
+  {
+    "id": "d1a3ea703d96",
+    "darija_latin": [
+      "maro",
+      "lmaro"
+    ],
+    "darija_ar": "مارو",
+    "class": "adjective",
+    "en": [
+      "maroon"
+    ],
+    "de": [
+      "kastanienbraun"
+    ]
+  },
+  {
+    "id": "fac77dc7bacf",
+    "darija_latin": [
+      "3ajri"
+    ],
+    "darija_ar": "عجري",
+    "class": "adjective",
+    "en": [
+      "turquoise"
+    ],
+    "de": [
+      "türkis"
+    ]
+  },
+  {
+    "id": "c9691fa742b6",
+    "darija_latin": [
+      "fekhri"
+    ],
+    "darija_ar": "فخري",
+    "class": "noun",
+    "en": [
+      "pride"
+    ],
+    "de": [
+      "Stolz"
+    ]
+  },
+  {
+    "id": "7c73641de074",
+    "darija_latin": [
+      "bousfi"
+    ],
+    "darija_ar": "بوصفي",
+    "class": "adjective",
+    "en": [
+      "lilac"
+    ],
+    "de": [
+      "lila"
+    ]
+  },
+  {
+    "id": "597c179cab9d",
+    "darija_latin": [
+      "zwaydi"
+    ],
+    "darija_ar": "زويدي",
+    "class": "adjective",
+    "en": [
+      "olive"
+    ],
+    "de": [
+      "olivgrün"
+    ]
+  },
+  {
+    "id": "cc6e46a65ea7",
+    "darija_latin": [
+      "bardawi"
+    ],
+    "darija_ar": "برداوي",
+    "class": "adjective",
+    "en": [
+      "icy"
+    ],
+    "de": [
+      "eisig"
+    ]
+  },
+  {
+    "id": "9faf4dbb9268",
+    "darija_latin": [
+      "SDfa",
+      "SaDfa",
+      "SeDfa"
+    ],
+    "darija_ar": "صضفة",
+    "class": "noun",
+    "en": [
+      "button"
+    ],
+    "de": [
+      "Knopf"
+    ]
+  },
+  {
+    "id": "e589e9ef0992",
+    "darija_latin": [
+      "Twang",
+      "Twaneg",
+      "Twanag",
+      "7ala9ate"
+    ],
+    "darija_ar": "طوانڭ",
+    "class": "noun",
+    "en": [
+      "earring"
+    ],
+    "de": [
+      "Ohrring"
+    ]
+  },
+  {
+    "id": "b96aa75d150a",
+    "darija_latin": [
+      "tchri7",
+      "tachri7"
+    ],
+    "darija_ar": "تشريح",
+    "class": "noun",
+    "en": [
+      "autopsy"
+    ],
+    "de": [
+      "Obduktion"
+    ]
+  },
+  {
+    "id": "f8ede9c8a27b",
+    "darija_latin": [
+      "k7ba",
+      "ka7ba",
+      "ke7ba"
+    ],
+    "darija_ar": "كحبة",
+    "class": "noun",
+    "en": [
+      "cough"
+    ],
+    "de": [
+      "Husten"
+    ]
+  },
+  {
+    "id": "83050173da41",
+    "darija_latin": [
+      "khalia",
+      "khaliya",
+      "5alia",
+      "5alyya"
+    ],
+    "darija_ar": "خلية",
+    "class": "noun",
+    "en": [
+      "cell"
+    ],
+    "de": [
+      "Zelle"
+    ]
+  },
+  {
+    "id": "f0579f16a194",
+    "darija_latin": [
+      "gui7",
+      "gi7"
+    ],
+    "darija_ar": "ڭيح",
+    "class": "noun",
+    "en": [
+      "pus"
+    ],
+    "de": [
+      "Eiter"
+    ]
+  },
+  {
+    "id": "703fff3eaf50",
+    "darija_latin": [
+      "lbbaser",
+      "lbbasr"
+    ],
+    "darija_ar": "لبّاسر",
+    "class": "noun",
+    "en": [
+      "piles"
+    ],
+    "de": [
+      "Hämorrhoiden"
+    ]
+  },
+  {
+    "id": "79004f8a952d",
+    "darija_latin": [
+      "thrisa",
+      "tehrisa",
+      "te8rissa"
+    ],
+    "darija_ar": "تهريسة",
+    "class": "noun",
+    "en": [
+      "fracture"
+    ],
+    "de": [
+      "Fraktur"
+    ]
+  },
+  {
+    "id": "09d50f46eb12",
+    "darija_latin": [
+      "dlfin",
+      "delfin",
+      "dalfine"
+    ],
+    "darija_ar": "دلفين",
+    "class": "noun",
+    "en": [
+      "dolphin"
+    ],
+    "de": [
+      "Delfin"
+    ]
+  },
+  {
+    "id": "15166bc9a3e8",
+    "darija_latin": [
+      "9irch",
+      "qirch"
+    ],
+    "darija_ar": "قرش",
+    "class": "noun",
+    "en": [
+      "shark"
+    ],
+    "de": [
+      "Hai"
+    ]
+  },
+  {
+    "id": "2924dfe00862",
+    "darija_latin": [
+      "nsr",
+      "nser"
+    ],
+    "darija_ar": "نسر",
+    "class": "noun",
+    "en": [
+      "eagle"
+    ],
+    "de": [
+      "Adler"
+    ]
+  },
+  {
+    "id": "92e4121b4832",
+    "darija_latin": [
+      "biTri9",
+      "biTriq"
+    ],
+    "darija_ar": "بطريق",
+    "class": "noun",
+    "en": [
+      "penguin"
+    ],
+    "de": [
+      "Pinguin"
+    ]
+  },
+  {
+    "id": "db856e5cbc0b",
+    "darija_latin": [
+      "fo9ma",
+      "foqma"
+    ],
+    "darija_ar": "فقمة",
+    "class": "noun",
+    "en": [
+      "seal"
+    ],
+    "de": [
+      "Siegel"
+    ]
+  },
+  {
+    "id": "2d11bef5da4e",
+    "darija_latin": [
+      "mn9ar",
+      "man9ar",
+      "men9ar",
+      "manqar"
+    ],
+    "darija_ar": "منقار",
+    "class": "noun",
+    "en": [
+      "beak"
+    ],
+    "de": [
+      "Schnabel"
+    ]
+  },
+  {
+    "id": "c278e58bfd7d",
+    "darija_latin": [
+      "wa7id l9arn",
+      "wahid l9arn",
+      "wahid lqarn"
+    ],
+    "darija_ar": "وحيد لقرن",
+    "class": "noun",
+    "en": [
+      "rhinoceros"
+    ],
+    "de": [
+      "Nashorn"
+    ]
+  },
+  {
+    "id": "ecfa661f035a",
+    "darija_latin": [
+      "8od8od",
+      "hodhod"
+    ],
+    "darija_ar": "هدهد",
+    "class": "noun",
+    "en": [
+      "hoopoe"
+    ],
+    "de": [
+      "Wiedehopf"
+    ]
+  },
+  {
+    "id": "b15fec575361",
+    "darija_latin": [
+      "hamster",
+      "8amster"
+    ],
+    "darija_ar": "هامستر",
+    "class": "noun",
+    "en": [
+      "hamster"
+    ],
+    "de": [
+      "Hamster"
+    ]
+  },
+  {
+    "id": "6d2e709198ab",
+    "darija_latin": [
+      "panda",
+      "ppanda"
+    ],
+    "darija_ar": "پاندا",
+    "class": "noun",
+    "en": [
+      "panda"
+    ],
+    "de": [
+      "Panda"
+    ]
+  },
+  {
+    "id": "1b7e53f07f69",
+    "darija_latin": [
+      "koala",
+      "kwala",
+      "kowala"
+    ],
+    "darija_ar": "كوالا",
+    "class": "noun",
+    "en": [
+      "koala"
+    ],
+    "de": [
+      "Koala"
+    ]
+  },
+  {
+    "id": "0c7233985343",
+    "darija_latin": [
+      "mn",
+      "men"
+    ],
+    "darija_ar": "من",
+    "class": "noun",
+    "en": [
+      "since"
+    ],
+    "de": [
+      "seit"
+    ]
+  },
+  {
+    "id": "f7a8865fdc3c",
+    "darija_latin": [
+      "dourijin",
+      "dorijin"
+    ],
+    "darija_ar": "دوريجين",
+    "class": "adjective",
+    "en": [
+      "original"
+    ],
+    "de": [
+      "ursprünglich"
+    ]
+  },
+  {
+    "id": "003fc38e3d9d",
+    "darija_latin": [
+      "kalm",
+      "calm"
+    ],
+    "darija_ar": "كالم",
+    "class": "adjective",
+    "en": [
+      "calm"
+    ],
+    "de": [
+      "ruhig"
+    ]
+  },
+  {
+    "id": "01e3286947cc",
+    "darija_latin": [
+      "8adi2",
+      "8aadi2"
+    ],
+    "darija_ar": "هاديء",
+    "class": "adjective",
+    "en": [
+      "quiet"
+    ],
+    "de": [
+      "ruhig"
+    ]
+  },
+  {
+    "id": "8b80f0d81c54",
+    "darija_latin": [
+      "fchkel",
+      "fchkl",
+      "fchkal"
+    ],
+    "darija_ar": "فشكل",
+    "class": "adjective",
+    "en": [
+      "odd",
+      "exotic"
+    ],
+    "de": [
+      "seltsam",
+      "exotisch"
+    ]
+  },
+  {
+    "id": "db0b37f4ba5f",
+    "darija_latin": [
+      "tlkhcheb",
+      "tlkhchab"
+    ],
+    "darija_ar": "تلخشب",
+    "class": "adjective",
+    "en": [
+      "wooden"
+    ],
+    "de": [
+      "holzern"
+    ]
+  },
+  {
+    "id": "426966647601",
+    "darija_latin": [
+      "katoliki",
+      "catoliki"
+    ],
+    "darija_ar": "كاتوليكي",
+    "class": "adjective",
+    "en": [
+      "catholic"
+    ],
+    "de": [
+      "katholisch"
+    ]
+  },
+  {
+    "id": "4a81bedb97d4",
+    "darija_latin": [
+      "nefsi",
+      "nfsi"
+    ],
+    "darija_ar": "نفسي",
+    "class": "adjective",
+    "en": [
+      "psychological",
+      "psychiatric"
+    ],
+    "de": [
+      "psychologisch",
+      "psychiatrisch"
+    ]
+  },
+  {
+    "id": "b2d1c23d3715",
+    "darija_latin": [
+      "haykali",
+      "8aykali"
+    ],
+    "darija_ar": "هيكلي",
+    "class": "adjective",
+    "en": [
+      "structural"
+    ],
+    "de": [
+      "strukturell"
+    ]
+  },
+  {
+    "id": "5f65ceec6c82",
+    "darija_latin": [
+      "ni8aa2i",
+      "ni8a2i",
+      "niha2i"
+    ],
+    "darija_ar": "نهائي",
+    "class": "adjective",
+    "en": [
+      "ultimate",
+      "eventual",
+      "terminal"
+    ],
+    "de": [
+      "ultimativ",
+      "letztendlich",
+      "terminal"
+    ]
+  },
+  {
+    "id": "dc914c547645",
+    "darija_latin": [
+      "motabaadal",
+      "motabadal"
+    ],
+    "darija_ar": "متبادل",
+    "class": "adjective",
+    "en": [
+      "mutual"
+    ],
+    "de": [
+      "gegenseitig"
+    ]
+  },
+  {
+    "id": "5c6a31b484b6",
+    "darija_latin": [
+      "8aamichi",
+      "hamichi"
+    ],
+    "darija_ar": "هامشي",
+    "class": "adjective",
+    "en": [
+      "marginal",
+      "peripheral"
+    ],
+    "de": [
+      "marginal",
+      "peripher"
+    ]
+  },
+  {
+    "id": "452a796a4922",
+    "darija_latin": [
+      "ri2aasi",
+      "ri2asi"
+    ],
+    "darija_ar": "رئاسي",
+    "class": "adjective",
+    "en": [
+      "presidential"
+    ],
+    "de": [
+      "präsidial"
+    ]
+  },
+  {
+    "id": "c8f55f572882",
+    "darija_latin": [
+      "bioloji",
+      "biologi"
+    ],
+    "darija_ar": "بيولوجي",
+    "class": "adjective",
+    "en": [
+      "biological"
+    ],
+    "de": [
+      "biologisch"
+    ]
+  },
+  {
+    "id": "1dd2aade2f8f",
+    "darija_latin": [
+      "ra2smali",
+      "ra2smaali"
+    ],
+    "darija_ar": "رأسمالي",
+    "class": "adjective",
+    "en": [
+      "capitalist"
+    ],
+    "de": [
+      "kapitalistisch"
+    ]
+  },
+  {
+    "id": "e053d38a5b15",
+    "darija_latin": [
+      "mami99ench",
+      "mamty99ench"
+    ],
+    "darija_ar": "ماميقّنش",
+    "class": "adjective",
+    "en": [
+      "uncertain"
+    ],
+    "de": [
+      "unsicher"
+    ]
+  },
+  {
+    "id": "8344731e9a2c",
+    "darija_latin": [
+      "mowazi",
+      "mwazi"
+    ],
+    "darija_ar": "موازي",
+    "class": "adjective",
+    "en": [
+      "parallel"
+    ],
+    "de": [
+      "parallel"
+    ]
+  },
+  {
+    "id": "8a092ed3ce46",
+    "darija_latin": [
+      "ftitaa7i",
+      "iftitat7i"
+    ],
+    "darija_ar": "فتيتاحي",
+    "class": "adjective",
+    "en": [
+      "preliminary"
+    ],
+    "de": [
+      "vorläufig"
+    ]
+  },
+  {
+    "id": "4753479a7df7",
+    "darija_latin": [
+      "ilzami",
+      "ilzaami"
+    ],
+    "darija_ar": "إلزامي",
+    "class": "adjective",
+    "en": [
+      "compulsory"
+    ],
+    "de": [
+      "verpflichtend"
+    ]
+  },
+  {
+    "id": "fd7da44ebcf9",
+    "darija_latin": [
+      "stichaari",
+      "stichari"
+    ],
+    "darija_ar": "ستشاري",
+    "class": "adjective",
+    "en": [
+      "advisory"
+    ],
+    "de": [
+      "beratend"
+    ]
+  },
+  {
+    "id": "b219267589e3",
+    "darija_latin": [
+      "bida2i",
+      "bidaa2i"
+    ],
+    "darija_ar": "بدائي",
+    "class": "adjective",
+    "en": [
+      "primitive"
+    ],
+    "de": [
+      "primitiv"
+    ]
+  },
+  {
+    "id": "32c03e3da47b",
+    "darija_latin": [
+      "tamiin",
+      "tamin"
+    ],
+    "darija_ar": "تمين",
+    "class": "adjective",
+    "en": [
+      "precious"
+    ],
+    "de": [
+      "kostbar"
+    ]
+  },
+  {
+    "id": "37b827b7567d",
+    "darija_latin": [
+      "mighnaTisi",
+      "mighnaaTisi"
+    ],
+    "darija_ar": "ميغناطيسي",
+    "class": "adjective",
+    "en": [
+      "magnetic"
+    ],
+    "de": [
+      "magnetisch"
+    ]
+  },
+  {
+    "id": "28f350efd404",
+    "darija_latin": [
+      "mj88d",
+      "mje88ed"
+    ],
+    "darija_ar": "مجهّد",
+    "class": "adjective",
+    "en": [
+      "loud"
+    ],
+    "de": [
+      "laut"
+    ]
+  },
+  {
+    "id": "d72522f24ff1",
+    "darija_latin": [
+      "tmtiili",
+      "tmtili",
+      "temtiili"
+    ],
+    "darija_ar": "تمتيلي",
+    "class": "adjective",
+    "en": [
+      "representative"
+    ],
+    "de": [
+      "vertretend"
+    ]
+  },
+  {
+    "id": "e0d83cd0ec55",
+    "darija_latin": [
+      "7ariiS",
+      "7ariS"
+    ],
+    "darija_ar": "حريص",
+    "class": "adjective",
+    "en": [
+      "eager"
+    ],
+    "de": [
+      "eifrig"
+    ]
+  },
+  {
+    "id": "753435cab104",
+    "darija_latin": [
+      "mt2aSSel",
+      "mt2SSal"
+    ],
+    "darija_ar": "متأصّل",
+    "class": "adjective",
+    "en": [
+      "inherent"
+    ],
+    "de": [
+      "innewohnend"
+    ]
+  },
+  {
+    "id": "58f4cbe433bd",
+    "darija_latin": [
+      "nti9a2i",
+      "nti9aa2i"
+    ],
+    "darija_ar": "نتقائي",
+    "class": "adjective",
+    "en": [
+      "selective"
+    ],
+    "de": [
+      "selektiv"
+    ]
+  },
+  {
+    "id": "522ba0b777e2",
+    "darija_latin": [
+      "flsafi",
+      "falsafi",
+      "felsafi"
+    ],
+    "darija_ar": "فلسفي",
+    "class": "adjective",
+    "en": [
+      "philosophical"
+    ],
+    "de": [
+      "philosophisch"
+    ]
+  },
+  {
+    "id": "81ade3f140f8",
+    "darija_latin": [
+      "ryaDyati",
+      "ryaDyaati"
+    ],
+    "darija_ar": "رياضياتي",
+    "class": "adjective",
+    "en": [
+      "mathematical"
+    ],
+    "de": [
+      "mathematisch"
+    ]
+  },
+  {
+    "id": "305ff9191b4e",
+    "darija_latin": [
+      "difaa3i",
+      "difa3i"
+    ],
+    "darija_ar": "دفاعي",
+    "class": "adjective",
+    "en": [
+      "defensive"
+    ],
+    "de": [
+      "defensiv"
+    ]
+  },
+  {
+    "id": "3e5f62b0cdf0",
+    "darija_latin": [
+      "ghayr monaasib",
+      "ghayr monasib"
+    ],
+    "darija_ar": "غير مناسب",
+    "class": "adjective",
+    "en": [
+      "inappropriate"
+    ],
+    "de": [
+      "unangemessen"
+    ]
+  },
+  {
+    "id": "414c3a882030",
+    "darija_latin": [
+      "da2iri",
+      "daa2iri"
+    ],
+    "darija_ar": "دائري",
+    "class": "adjective",
+    "en": [
+      "circular"
+    ],
+    "de": [
+      "kreisförmig"
+    ]
+  },
+  {
+    "id": "893ca5a0a8f1",
+    "darija_latin": [
+      "idraaki",
+      "idraki"
+    ],
+    "darija_ar": "إدراكي",
+    "class": "adjective",
+    "en": [
+      "cognitive"
+    ],
+    "de": [
+      "kognitiv"
+    ]
+  },
+  {
+    "id": "2eb536e373d0",
+    "darija_latin": [
+      "mofji3"
+    ],
+    "darija_ar": "مفجع",
+    "class": "adjective",
+    "en": [
+      "tragic"
+    ],
+    "de": [
+      "tragisch"
+    ]
+  },
+  {
+    "id": "b7b7334cdaeb",
+    "darija_latin": [
+      "tnDimi",
+      "tanDiimi",
+      "tenDiimi",
+      "tnDiimi"
+    ],
+    "darija_ar": "تنضيمي",
+    "class": "adjective",
+    "en": [
+      "regulatory",
+      "organizational"
+    ],
+    "de": [
+      "regulatorisch",
+      "organisatorisch"
+    ]
+  },
+  {
+    "id": "1b0e1edcc899",
+    "darija_latin": [
+      "7aasim",
+      "7asim"
+    ],
+    "darija_ar": "حاسم",
+    "class": "adjective",
+    "en": [
+      "decisive"
+    ],
+    "de": [
+      "entscheidend"
+    ]
+  },
+  {
+    "id": "a7f2c7a489d2",
+    "darija_latin": [
+      "machi mawDoo3i",
+      "machi mawDo3i"
+    ],
+    "darija_ar": "ماشي موضوعي",
+    "class": "adjective",
+    "en": [
+      "subjective"
+    ],
+    "de": [
+      "subjektiv"
+    ]
+  },
+  {
+    "id": "deff67caad40",
+    "darija_latin": [
+      "majiid",
+      "majid"
+    ],
+    "darija_ar": "مجيد",
+    "class": "adjective",
+    "en": [
+      "glorious"
+    ],
+    "de": [
+      "glorreich"
+    ]
+  },
+  {
+    "id": "c665a0e9da8c",
+    "darija_latin": [
+      "wizari",
+      "wizaari"
+    ],
+    "darija_ar": "وزاري",
+    "class": "adjective",
+    "en": [
+      "ministerial"
+    ],
+    "de": [
+      "ministeriell"
+    ]
+  },
+  {
+    "id": "e4bd7d874e22",
+    "darija_latin": [
+      "tkmili",
+      "tkmiili"
+    ],
+    "darija_ar": "تكميلي",
+    "class": "adjective",
+    "en": [
+      "supplementary"
+    ],
+    "de": [
+      "zusätzlich"
+    ]
+  },
+  {
+    "id": "50081be3d3e6",
+    "darija_latin": [
+      "bnnaa2",
+      "bnna2"
+    ],
+    "darija_ar": "بنّاء",
+    "class": "adjective",
+    "en": [
+      "constructive"
+    ],
+    "de": [
+      "konstruktiv"
+    ]
+  },
+  {
+    "id": "04244fd386a3",
+    "darija_latin": [
+      "solouki",
+      "soloki"
+    ],
+    "darija_ar": "سلوكي",
+    "class": "adjective",
+    "en": [
+      "behavioral"
+    ],
+    "de": [
+      "verhaltens-"
+    ]
+  },
+  {
+    "id": "50fa161c4cfa",
+    "darija_latin": [
+      "khtiyari",
+      "khtiari"
+    ],
+    "darija_ar": "ختياري",
+    "class": "adjective",
+    "en": [
+      "optional"
+    ],
+    "de": [
+      "optional"
+    ]
+  },
+  {
+    "id": "5c88cd563991",
+    "darija_latin": [
+      "jira7i",
+      "jiraa7i"
+    ],
+    "darija_ar": "جراحي",
+    "class": "adjective",
+    "en": [
+      "surgical"
+    ],
+    "de": [
+      "chirurgisch"
+    ]
+  },
+  {
+    "id": "ccc4e05f95a7",
+    "darija_latin": [
+      "tonaa2i",
+      "tona2i"
+    ],
+    "darija_ar": "تنائي",
+    "class": "adjective",
+    "en": [
+      "bilateral"
+    ],
+    "de": [
+      "bilateral"
+    ]
+  },
+  {
+    "id": "cdd8cabc5304",
+    "darija_latin": [
+      "kaytTbbe9",
+      "kaytTebbe9"
+    ],
+    "darija_ar": "كايتطبّق",
+    "class": "adjective",
+    "en": [
+      "applicable"
+    ],
+    "de": [
+      "anwendbar"
+    ]
+  },
+  {
+    "id": "92737bf54e8e",
+    "darija_latin": [
+      "mSr8eT",
+      "mSer8eT",
+      "mSer8aT"
+    ],
+    "darija_ar": "مصرهط",
+    "class": "adjective",
+    "en": [
+      "scorner"
+    ],
+    "de": [
+      "Verächter"
+    ]
+  },
+  {
+    "id": "598c219da773",
+    "darija_latin": [
+      "lani8a2i",
+      "laani8aa2i"
+    ],
+    "darija_ar": "لانهائي",
+    "class": "adjective",
+    "en": [
+      "infinite"
+    ],
+    "de": [
+      "unendlich"
+    ]
+  },
+  {
+    "id": "64399e474c44",
+    "darija_latin": [
+      "mol8im",
+      "molhim"
+    ],
+    "darija_ar": "ملهم",
+    "class": "adjective",
+    "en": [
+      "inspiring"
+    ],
+    "de": [
+      "inspirierend"
+    ]
+  },
+  {
+    "id": "d3f582ea6062",
+    "darija_latin": [
+      "stitna2i",
+      "istitna2i",
+      "stitnaa2i",
+      "istitnaa2i"
+    ],
+    "darija_ar": "استثنائي",
+    "class": "adjective",
+    "en": [
+      "exceptional"
+    ],
+    "de": [
+      "außergewöhnlich"
+    ]
+  },
+  {
+    "id": "94305808d10f",
+    "darija_latin": [
+      "yawmian",
+      "yawmiyyan",
+      "yawmyyan"
+    ],
+    "darija_ar": "يوميا",
+    "class": "adverb",
+    "en": [
+      "daily"
+    ],
+    "de": [
+      "täglich"
+    ]
+  },
+  {
+    "id": "de205a82e315",
+    "darija_latin": [
+      "bi basaTa",
+      "b basaTa",
+      "bibasaTa"
+    ],
+    "darija_ar": "ببساطة",
+    "class": "adverb",
+    "en": [
+      "simply"
+    ],
+    "de": [
+      "einfach"
+    ]
+  },
+  {
+    "id": "e809377f2a0c",
+    "darija_latin": [
+      "sabi9an",
+      "saabi9an",
+      "sabiqan"
+    ],
+    "darija_ar": "سابقا",
+    "class": "adverb",
+    "en": [
+      "already",
+      "previously"
+    ],
+    "de": [
+      "bereits",
+      "zuvor"
+    ]
+  },
+  {
+    "id": "3291444cb634",
+    "darija_latin": [
+      "flkhr",
+      "flkher",
+      "flekher",
+      "fllekher"
+    ],
+    "darija_ar": "فلخر",
+    "class": "adverb",
+    "en": [
+      "eventually"
+    ],
+    "de": [
+      "schließlich"
+    ]
+  },
+  {
+    "id": "1d7449c799d8",
+    "darija_latin": [
+      "tamaman",
+      "tamaaman"
+    ],
+    "darija_ar": "تماما",
+    "class": "adverb",
+    "en": [
+      "exactly"
+    ],
+    "de": [
+      "genau"
+    ]
+  },
+  {
+    "id": "86cc30d9222b",
+    "darija_latin": [
+      "bl3adl",
+      "bl 3adl",
+      "b l3adl",
+      "bel3adl"
+    ],
+    "darija_ar": "بلعدل",
+    "class": "adverb",
+    "en": [
+      "fairly"
+    ],
+    "de": [
+      "ziemlich"
+    ]
+  },
+  {
+    "id": "1cd1a4abd159",
+    "darija_latin": [
+      "bwoDou7",
+      "bwoDo7"
+    ],
+    "darija_ar": "بوضوح",
+    "class": "adverb",
+    "en": [
+      "clearly"
+    ],
+    "de": [
+      "deutlich"
+    ]
+  },
+  {
+    "id": "9fe684cd9e48",
+    "darija_latin": [
+      "gdgd",
+      "gedged",
+      "gd gd",
+      "gddgdd"
+    ],
+    "darija_ar": "ڭدڭد",
+    "class": "adverb",
+    "en": [
+      "equally"
+    ],
+    "de": [
+      "gleichmäßig"
+    ]
+  },
+  {
+    "id": "85b678dc2f64",
+    "darija_latin": [
+      "bntiDam",
+      "bintiDam",
+      "b ntiDam"
+    ],
+    "darija_ar": "بنتضام",
+    "class": "adverb",
+    "en": [
+      "regularly"
+    ],
+    "de": [
+      "regelmäßig"
+    ]
+  },
+  {
+    "id": "b5cbefdd5f9e",
+    "darija_latin": [
+      "b3om9",
+      "b 3om9"
+    ],
+    "darija_ar": "بعمق",
+    "class": "adverb",
+    "en": [
+      "deeply"
+    ],
+    "de": [
+      "tiefgründig"
+    ]
+  },
+  {
+    "id": "be9e9e6805d0",
+    "darija_latin": [
+      "chaark",
+      "chark"
+    ],
+    "darija_ar": "شارك",
+    "class": "noun",
+    "en": [
+      "contribute"
+    ],
+    "de": [
+      "Beitrag"
+    ]
+  },
+  {
+    "id": "b3c365851344",
+    "darija_latin": [
+      "frassi",
+      "frasi"
+    ],
+    "darija_ar": "فراسي",
+    "class": "noun",
+    "en": [
+      "I know"
+    ],
+    "de": [
+      "Wissen"
+    ]
+  },
+  {
+    "id": "08fddea70a94",
+    "darija_latin": [
+      "mosta9ill",
+      "mosta9il",
+      "mostaqill"
+    ],
+    "darija_ar": "مستقل",
+    "class": "noun",
+    "en": [
+      "independent"
+    ],
+    "de": [
+      "Unabhängiger"
+    ]
+  },
+  {
+    "id": "e72ec20409c4",
+    "darija_latin": [
+      "DDoble",
+      "Doble"
+    ],
+    "darija_ar": "ضوبل",
+    "class": "noun",
+    "en": [
+      "double"
+    ],
+    "de": [
+      "Doppel"
+    ]
+  },
+  {
+    "id": "186110d017bf",
+    "darija_latin": [
+      "chn9",
+      "chen9",
+      "chan9"
+    ],
+    "darija_ar": "شنق",
+    "class": "noun",
+    "en": [
+      "hanging"
+    ],
+    "de": [
+      "Hängung"
+    ]
+  },
+  {
+    "id": "107843221f30",
+    "darija_latin": [
+      "je3ba",
+      "j3ba",
+      "ja3ba"
+    ],
+    "darija_ar": "جعبة",
+    "class": "noun",
+    "en": [
+      "tube"
+    ],
+    "de": [
+      "Röhre"
+    ]
+  },
+  {
+    "id": "e7f3116e893e",
+    "darija_latin": [
+      "trebia",
+      "tribia"
+    ],
+    "darija_ar": "تربية",
+    "class": "noun",
+    "en": [
+      "baby"
+    ],
+    "de": [
+      "Baby"
+    ]
+  },
+  {
+    "id": "3dca5dda3da1",
+    "darija_latin": [
+      "anisa",
+      "2anisa"
+    ],
+    "darija_ar": "أنسة",
+    "class": "noun",
+    "en": [
+      "miss"
+    ],
+    "de": [
+      "Fehlende"
+    ]
+  },
+  {
+    "id": "68422a1f1d23",
+    "darija_latin": [
+      "teshdid",
+      "tshdid",
+      "tashdid"
+    ],
+    "darija_ar": "تشديد",
+    "class": "noun",
+    "en": [
+      "emphasis"
+    ],
+    "de": [
+      "Betonung"
+    ]
+  },
+  {
+    "id": "d6f274754da3",
+    "darija_latin": [
+      "fakhr",
+      "fakher"
+    ],
+    "darija_ar": "فاخر",
+    "class": "noun",
+    "en": [
+      "coal"
+    ],
+    "de": [
+      "Kohle"
+    ]
+  },
+  {
+    "id": "2b2e528331e0",
+    "darija_latin": [
+      "mo3ahada",
+      "mo3a8ada"
+    ],
+    "darija_ar": "معاهدة",
+    "class": "noun",
+    "en": [
+      "treaty",
+      "convention"
+    ],
+    "de": [
+      "Vertrag",
+      "Konvention"
+    ]
+  },
+  {
+    "id": "3db7b1b6e2ea",
+    "darija_latin": [
+      "jelsa",
+      "jlsa",
+      "jalsa"
+    ],
+    "darija_ar": "جلسة",
+    "class": "noun",
+    "en": [
+      "session"
+    ],
+    "de": [
+      "Sitzung"
+    ]
+  },
+  {
+    "id": "817ef0d3e6c4",
+    "darija_latin": [
+      "ra2is ta7rir",
+      "ra2is t7rir",
+      "ra2is te7rir"
+    ],
+    "darija_ar": "رئيس تحرير",
+    "class": "noun",
+    "en": [
+      "editor"
+    ],
+    "de": [
+      "Redakteur"
+    ]
+  },
+  {
+    "id": "eff39b46794d",
+    "darija_latin": [
+      "fou9t",
+      "f w9t",
+      "fw9t"
+    ],
+    "darija_ar": "فوقت",
+    "class": "preposition",
+    "en": [
+      "during"
+    ],
+    "de": [
+      "während"
+    ]
+  },
+  {
+    "id": "8892fea4d3b2",
+    "darija_latin": [
+      "ma3ada",
+      "ma 3ada"
+    ],
+    "darija_ar": "ماعادا",
+    "class": "preposition",
+    "en": [
+      "except"
+    ],
+    "de": [
+      "außer"
+    ]
+  },
+  {
+    "id": "12472b551935",
+    "darija_latin": [
+      "9el",
+      "9al"
+    ],
+    "darija_ar": "قل",
+    "class": "pronoun",
+    "en": [
+      "less"
+    ],
+    "de": [
+      "weniger"
+    ]
+  },
+  {
+    "id": "2892bcb36308",
+    "darija_latin": [
+      "3rram",
+      "3erram"
+    ],
+    "darija_ar": "عرّام",
+    "class": "pronoun",
+    "en": [
+      "plenty of"
+    ],
+    "de": [
+      "viel"
+    ]
+  },
+  {
+    "id": "832afc75215a",
+    "darija_latin": [
+      "jrra",
+      "jerra",
+      "jarra"
+    ],
+    "darija_ar": "جرّا",
+    "class": "verb",
+    "en": [
+      "run"
+    ],
+    "de": [
+      "laufen"
+    ]
+  }
+]
