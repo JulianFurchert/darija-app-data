@@ -1,0 +1,10 @@
+{
+  "json.schemas": [
+    {
+      "fileMatch": ["dataset*.json"],
+      "url": "./schema.json"
+    }
+  ],
+  "json.validationMode": "error",
+  "editor.quickSuggestions": { "other": true, "comments": false, "strings": true }
+}

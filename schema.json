@@ -1,0 +1,110 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://example.com/darija-dictionary.schema.json",
+  "title": "Darija Dictionary (Simplified, Draft-07)",
+  "type": "array",
+  "items": { "$ref": "#/definitions/DictionaryEntry" },
+
+  "definitions": {
+    "Gender": {
+      "type": "string",
+      "enum": ["masculine", "feminine", "common", "none"]
+    },
+    "GrammaticalNumber": {
+      "type": "string",
+      "enum": ["singular", "plural"]
+    },
+    "WordClass": {
+      "type": "string",
+      "enum": ["noun", "verb", "adjective", "adverb", "preposition", "pronoun", "number", "ordinal_number", "fraction", "conjunction"]
+    },
+
+    "RelationType": {
+      "type": "string",
+      "enum": ["same_root", "singular_of", "plural_of", "feminine_form_of", "adjective_form_of", "see_also"]
+    },
+
+    "RelatedEntry": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "entryId": { "type": "string", "minLength": 1 },
+        "type": { "$ref": "#/definitions/RelationType" },
+        "note": { "type": "string" }
+      },
+      "required": ["entryId", "type"]
+    },
+
+    "WordForm": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "latin": { "type": "string", "minLength": 1 },
+        "gender": { "$ref": "#/definitions/Gender" },
+        "number": { "$ref": "#/definitions/GrammaticalNumber" },
+        "isLemma": { "type": "boolean", "default": false },
+        "notes": { "type": "string" }
+      },
+      "required": ["latin"]
+    },
+
+    "DictionaryEntry": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "originalId": { "type": "string" },
+
+        "darija_ar": { "type": "string", "minLength": 1 },
+        "darija_latin": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 },
+          "minItems": 1,
+          "uniqueItems": true
+        },
+
+        "class": { "$ref": "#/definitions/WordClass" },
+
+        "en": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 },
+          "minItems": 1,
+          "uniqueItems": true
+        },
+        "de": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 },
+          "minItems": 1,
+          "uniqueItems": true
+        },
+
+        "gender": { "$ref": "#/definitions/Gender" },
+        "number": { "$ref": "#/definitions/GrammaticalNumber" },
+
+        "plural_latin": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 },
+          "uniqueItems": true
+        },
+
+        "forms": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/WordForm" }
+        },
+
+        "related": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/RelatedEntry" }
+        },
+
+        "frequency_score": { "type": "integer" },
+        "is_daily_darija": { "type": "boolean", "default": false },
+        "is_standard_arabic": { "type": "boolean", "default": false },
+        "user_summary_de": { "type": "string" },
+        "user_summary_en": { "type": "string" },
+        "reviewed": { "type": "boolean", "default": false }
+      },
+      "required": ["id", "darija_ar", "darija_latin", "class", "en", "de"]
+    }
+  }
+}

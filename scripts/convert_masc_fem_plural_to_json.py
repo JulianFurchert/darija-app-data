@@ -60,7 +60,13 @@ with open(CSV_PATH, encoding="utf-8") as f:
             # Perfekt, genau eine Referenz
             results.append(found_info[0])
         elif len(found) > 1:
-            logs.append(f"Multiple references found for row: {row} -> IDs: {found}")
+            # Bereite vollständige Einträge für das Log auf
+            entries = [next((e for e in dataset if e["id"] == eid), None) for eid in found]
+            log_entry = {
+                "csv_row": row,
+                "matching_entries": entries
+            }
+            logs.append(json.dumps(log_entry, ensure_ascii=False, indent=2))
 
 # Schreibe die Ergebnisse
 with open(OUTPUT_PATH, "w", encoding="utf-8") as f:

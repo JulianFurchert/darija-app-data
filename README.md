@@ -34,3 +34,10 @@ Specify your license here (e.g., MIT, GPL, etc.).
 ## Contact
 
 For questions or contributions, please open an issue or contact the repository maintainer.
+
+
+## Schema
+
+```
+check-jsonschema --schemafile schema.json data/dataset-v01.json
+```
