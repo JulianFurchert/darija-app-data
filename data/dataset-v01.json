@@ -296,8 +296,7 @@
   {
     "id": "d6cb7a953cfa",
     "darija_latin": [
-      "39lia",
-      "39lya"
+      "39lia"
     ],
     "darija_ar": "عقلية",
     "class": "noun",
@@ -1041,8 +1040,7 @@
   {
     "id": "23276625e95c",
     "darija_latin": [
-      "3am",
-      "aam"
+      "3am"
     ],
     "darija_ar": "عام",
     "class": "noun",
@@ -1111,20 +1109,6 @@
     "de": [
       "Operation",
       "Prozess"
-    ]
-  },
-  {
-    "id": "020b85a9d198",
-    "darija_latin": [
-      "3amaliat"
-    ],
-    "darija_ar": "عمليات",
-    "class": "noun",
-    "en": [
-      "operations"
-    ],
-    "de": [
-      "Betrieb"
     ]
   },
   {
@@ -2413,22 +2397,6 @@
     ]
   },
   {
-    "id": "165e9a53fdeb",
-    "darija_latin": [
-      "3oloum",
-      "3ouloum",
-      "3olom"
-    ],
-    "darija_ar": "علوم",
-    "class": "noun",
-    "en": [
-      "sciences"
-    ],
-    "de": [
-      "Wissenschaften"
-    ]
-  },
-  {
     "id": "9154433b7968",
     "darija_latin": [
       "3om9",
@@ -2780,8 +2748,7 @@
     "id": "82d180c6a796",
     "darija_latin": [
       "3skr",
-      "3askar",
-      "3esker"
+      "3askar"
     ],
     "darija_ar": "عسكر",
     "class": "noun",
@@ -2796,8 +2763,7 @@
     "id": "8737f407067c",
     "darija_latin": [
       "3skri",
-      "3askri",
-      "3eskri"
+      "3askri"
     ],
     "darija_ar": "عسكري",
     "class": "noun",
@@ -3042,30 +3008,16 @@
   {
     "id": "c9c8cc278351",
     "darija_latin": [
-      "3tiraf",
-      "i3tiraf",
-      "3tiraaf"
-    ],
-    "darija_ar": "عتراف",
-    "class": "noun",
-    "en": [
-      "confession"
-    ],
-    "de": [
-      "Geständnis"
-    ]
-  },
-  {
-    "id": "f1dca5314eab",
-    "darija_latin": [
       "3tiraf"
     ],
-    "darija_ar": "إعتراف",
+    "darija_ar": "اعتراف",
     "class": "noun",
     "en": [
+      "confession",
       "recognition"
     ],
     "de": [
+      "Geständnis",
       "Anerkennung"
     ]
   },
@@ -3099,21 +3051,6 @@
     ],
     "de": [
       "ermüden"
-    ]
-  },
-  {
-    "id": "9912e68675f2",
-    "darija_latin": [
-      "3yalat",
-      "3ialat"
-    ],
-    "darija_ar": "عيالات",
-    "class": "noun",
-    "en": [
-      "women"
-    ],
-    "de": [
-      "Frauen"
     ]
   },
   {
@@ -3623,8 +3560,7 @@
   {
     "id": "c3e02db62080",
     "darija_latin": [
-      "7aja",
-      "haja"
+      "7aja"
     ],
     "darija_ar": "حاجة",
     "class": "noun",
@@ -4516,8 +4452,7 @@
     "id": "53d86f50c984",
     "darija_latin": [
       "7eyy",
-      "7ayy",
-      "7yy"
+      "7aayy"
     ],
     "darija_ar": "حيّ",
     "class": "adjective",
@@ -4533,7 +4468,8 @@
   {
     "id": "22f5ff7eb055",
     "darija_latin": [
-      "7eyya"
+      "7eyya",
+      "7ayya"
     ],
     "darija_ar": "حيّا",
     "class": "verb",
@@ -4969,9 +4905,7 @@
   {
     "id": "10ad86e37a42",
     "darija_latin": [
-      "7mar",
-      "hmar",
-      "himar"
+      "7mar"
     ],
     "darija_ar": "حمار",
     "class": "noun",
@@ -4985,8 +4919,6 @@
   {
     "id": "3a842333ad06",
     "darija_latin": [
-      "7mar",
-      "7mr",
       "7mer"
     ],
     "darija_ar": "حمر",
@@ -5488,33 +5420,19 @@
     "id": "16b25158e6c8",
     "darija_latin": [
       "7sab",
-      "7isab",
-      "7ssab"
+      "7isab"
     ],
     "darija_ar": "حساب",
     "class": "noun",
     "en": [
       "count",
-      "account"
+      "account",
+      "calculation"
     ],
     "de": [
       "Zahl",
-      "Konto"
-    ]
-  },
-  {
-    "id": "10458c8afb74",
-    "darija_latin": [
-      "7sab",
-      "hsab"
-    ],
-    "darija_ar": "لحساب",
-    "class": "noun",
-    "en": [
-      "computing"
-    ],
-    "de": [
-      "Rechnen"
+      "Konto",
+      "Berechnung"
     ]
   },
   {
@@ -5770,9 +5688,7 @@
     "id": "fbb49ea10596",
     "darija_latin": [
       "7wayj",
-      "7wayej",
-      "7wayaj",
-      "hwayej"
+      "7wayej"
     ],
     "darija_ar": "حوايج",
     "class": "noun",
@@ -7809,30 +7725,14 @@
     ]
   },
   {
-    "id": "5f6ef063661d",
+    "id": "bf7eb82b92c6",
     "darija_latin": [
-      "9tira7",
-      "2i9tira7"
+      "9tira7"
     ],
-    "darija_ar": "إقتراح",
+    "darija_ar": "اقتراح",
     "class": "noun",
     "en": [
       "proposal"
-    ],
-    "de": [
-      "Vorschlag"
-    ]
-  },
-  {
-    "id": "bf7eb82b92c6",
-    "darija_latin": [
-      "9tira7",
-      "i9tira7"
-    ],
-    "darija_ar": "قتراح",
-    "class": "noun",
-    "en": [
-      "suggestion"
     ],
     "de": [
       "Vorschlag"
@@ -8054,23 +7954,6 @@
     ]
   },
   {
-    "id": "9c426664877e",
-    "darija_latin": [
-      "DDo",
-      "Daw2"
-    ],
-    "darija_ar": "الضو",
-    "class": "noun",
-    "en": [
-      "light",
-      "electricity"
-    ],
-    "de": [
-      "Licht",
-      "Elektrizität"
-    ]
-  },
-  {
     "id": "e842b6a5c503",
     "darija_latin": [
       "DDo",
@@ -8079,10 +7962,12 @@
     "darija_ar": "ضو",
     "class": "noun",
     "en": [
-      "light"
+      "light",
+      "electricity"
     ],
     "de": [
-      "Licht"
+      "Licht",
+      "Strom"
     ]
   },
   {
@@ -8969,8 +8854,7 @@
   {
     "id": "c4719e35e223",
     "darija_latin": [
-      "Sabon",
-      "Sabona"
+      "Sabon"
     ],
     "darija_ar": "صابون",
     "class": "noun",
@@ -12887,8 +12771,7 @@
   {
     "id": "28d7810c10dd",
     "darija_latin": [
-      "badil",
-      "badiil"
+      "badil"
     ],
     "darija_ar": "بديل",
     "class": "adjective",
@@ -13031,20 +12914,6 @@
     ],
     "de": [
       "Banane"
-    ]
-  },
-  {
-    "id": "a24f438138c9",
-    "darija_latin": [
-      "banka"
-    ],
-    "darija_ar": "بانكا",
-    "class": "noun",
-    "en": [
-      "bank"
-    ],
-    "de": [
-      "Bank"
     ]
   },
   {
@@ -13229,20 +13098,6 @@
     ],
     "de": [
       "sichtbar",
-      "offensichtlich"
-    ]
-  },
-  {
-    "id": "aba86c24d317",
-    "darija_latin": [
-      "bayna"
-    ],
-    "darija_ar": "باينة",
-    "class": "adverb",
-    "en": [
-      "obviously"
-    ],
-    "de": [
       "offensichtlich"
     ]
   },
@@ -13444,9 +13299,7 @@
   {
     "id": "9ec2fcfc97d7",
     "darija_latin": [
-      "bghl",
-      "bghel",
-      "bghal"
+      "bghl"
     ],
     "darija_ar": "بغل",
     "class": "noun",
@@ -15334,6 +15187,13 @@
     ],
     "de": [
       "Jugend"
+    ],
+    "related": [
+      {
+        "entryId": "7a87cd47b351",
+        "type": "plural_of",
+        "note": "Plural of 'chabb', used both for 'young men' and collectively for 'youth'."
+      }
     ]
   },
   {
@@ -15355,18 +15215,23 @@
     "id": "7a87cd47b351",
     "darija_latin": [
       "chabb",
-      "chaabb",
-      "chaab"
+      "chaabb"
     ],
     "darija_ar": "شاب",
     "class": "noun",
     "en": [
-      "young",
+      "young man",
       "guy"
     ],
     "de": [
-      "Junge",
+      "junger Mann",
       "Typ"
+    ],
+    "related": [
+      {
+        "entryId": "9973ba04f5c7",
+        "type": "singular_of"
+      }
     ]
   },
   {
@@ -16306,21 +16171,6 @@
     ]
   },
   {
-    "id": "547920dbc74d",
-    "darija_latin": [
-      "chjer",
-      "chjar"
-    ],
-    "darija_ar": "شجر",
-    "class": "noun",
-    "en": [
-      "trees"
-    ],
-    "de": [
-      "Bäume"
-    ]
-  },
-  {
     "id": "eed9c81057e2",
     "darija_latin": [
       "chjje3",
@@ -16586,27 +16436,11 @@
     ]
   },
   {
-    "id": "0a8c9b4fa9ad",
-    "darija_latin": [
-      "chmch",
-      "chamch",
-      "chemch",
-      "chems"
-    ],
-    "darija_ar": "شمش",
-    "class": "noun",
-    "en": [
-      "sun"
-    ],
-    "de": [
-      "Sonne"
-    ]
-  },
-  {
     "id": "42ce6d96513c",
     "darija_latin": [
       "chmch",
-      "chms"
+      "chams",
+      "chems"
     ],
     "darija_ar": "شمس",
     "class": "noun",
@@ -18290,8 +18124,7 @@
   {
     "id": "d2485a4a9134",
     "darija_latin": [
-      "dimo9raTi",
-      "dimou9raaTi"
+      "dimo9raTi"
     ],
     "darija_ar": "ديموقراطي",
     "class": "adjective",
@@ -19255,8 +19088,7 @@
     "id": "2e6ab9b1ed6b",
     "darija_latin": [
       "f3la",
-      "fe3la",
-      "fi3l"
+      "fe3la"
     ],
     "darija_ar": "فعلة",
     "class": "noun",
@@ -24477,21 +24309,6 @@
     ]
   },
   {
-    "id": "ec7289d31b03",
-    "darija_latin": [
-      "jdid",
-      "jadid"
-    ],
-    "darija_ar": "جديد",
-    "class": "noun",
-    "en": [
-      "new"
-    ],
-    "de": [
-      "Neuheit"
-    ]
-  },
-  {
     "id": "43b8c7a4c95c",
     "darija_latin": [
       "jdid"
@@ -24508,17 +24325,15 @@
   {
     "id": "0dfc8037f284",
     "darija_latin": [
-      "jdida",
-      "el jadida",
-      "jjdida"
-    ],
-    "darija_ar": "جديدة",
-    "class": "noun",
-    "en": [
       "el jadida"
     ],
+    "darija_ar": "الجديدة",
+    "class": "noun",
+    "en": [
+      "El Jadida"
+    ],
     "de": [
-      "Eljadida"
+      "El Jadida"
     ]
   },
   {
@@ -24812,20 +24627,6 @@
     ],
     "de": [
       "Sex"
-    ]
-  },
-  {
-    "id": "e7779f5792dc",
-    "darija_latin": [
-      "jiran"
-    ],
-    "darija_ar": "جيران",
-    "class": "noun",
-    "en": [
-      "neighbors"
-    ],
-    "de": [
-      "Nachbarn"
     ]
   },
   {
@@ -25628,31 +25429,19 @@
     ]
   },
   {
-    "id": "11aac08440b0",
+    "id": "980c17950ee8",
     "darija_latin": [
       "kafi",
       "kaafi"
     ],
     "darija_ar": "كافي",
-    "class": "adverb",
-    "en": [
-      "enough"
-    ],
-    "de": [
-      "genug"
-    ]
-  },
-  {
-    "id": "980c17950ee8",
-    "darija_latin": [
-      "kafi"
-    ],
-    "darija_ar": "كافي",
     "class": "adjective",
     "en": [
+      "enough",
       "sufficient"
     ],
     "de": [
+      "genug",
       "ausreichend"
     ]
   },
@@ -26553,9 +26342,7 @@
     "id": "aacde4aa576d",
     "darija_latin": [
       "khDr",
-      "khDer",
-      "khDar",
-      "5Dr"
+      "khDer"
     ],
     "darija_ar": "خضر",
     "class": "adjective",
@@ -26564,21 +26351,6 @@
     ],
     "de": [
       "roh"
-    ]
-  },
-  {
-    "id": "644cbd678383",
-    "darija_latin": [
-      "khDr",
-      "khDer"
-    ],
-    "darija_ar": "خضر",
-    "class": "noun",
-    "en": [
-      "green"
-    ],
-    "de": [
-      "Grün"
     ]
   },
   {
@@ -26903,9 +26675,7 @@
   {
     "id": "2770f6a31c4e",
     "darija_latin": [
-      "khaarj",
-      "khaarij",
-      "5arj"
+      "khaarj"
     ],
     "darija_ar": "خارج",
     "class": "adjective",
@@ -26913,16 +26683,13 @@
       "outside"
     ],
     "de": [
-      "außen"
+      "äußere"
     ]
   },
   {
     "id": "6f8407af9ae3",
     "darija_latin": [
-      "khaarj",
-      "5aarj",
-      "kharj",
-      "5arj"
+      "khaarj"
     ],
     "darija_ar": "خارج",
     "class": "preposition",
@@ -26980,18 +26747,29 @@
   {
     "id": "efade8ad6469",
     "darija_latin": [
-      "khal",
+      "khal"
+    ],
+    "darija_ar": "خال",
+    "class": "noun",
+    "en": [
+      "uncle (maternal)"
+    ],
+    "de": [
+      "Onkel (mütterlicherseits)"
+    ]
+  },
+  {
+    "id": "efade8ad6469",
+    "darija_latin": [
       "khala"
     ],
     "darija_ar": "خال",
     "class": "noun",
     "en": [
-      "mole",
-      "uncle"
+      "aunt (maternal)"
     ],
     "de": [
-      "Maulwurf",
-      "Onkel"
+      "Tante (mütterlicherseits)"
     ]
   },
   {
@@ -27121,28 +26899,12 @@
     "id": "8c16088d331a",
     "darija_latin": [
       "khasara",
-      "khasaara",
-      "5asaara"
+      "khasaara"
     ],
     "darija_ar": "خسارة",
     "class": "noun",
     "en": [
       "loss"
-    ],
-    "de": [
-      "Verlust"
-    ]
-  },
-  {
-    "id": "4cce52763c9d",
-    "darija_latin": [
-      "khasara",
-      "5sar"
-    ],
-    "darija_ar": "خسر",
-    "class": "noun",
-    "en": [
-      "lose"
     ],
     "de": [
       "Verlust"
@@ -27454,9 +27216,7 @@
     "id": "279cae74de1b",
     "darija_latin": [
       "khdar",
-      "khdr",
-      "5dr",
-      "khder"
+      "khdr"
     ],
     "darija_ar": "خضر",
     "class": "adjective",
@@ -28110,18 +27870,17 @@
   {
     "id": "a44ad703d035",
     "darija_latin": [
-      "khrouf",
-      "5rouf",
-      "5rof",
-      "khrof"
+      "khrouf"
     ],
     "darija_ar": "خروف",
     "class": "noun",
     "en": [
-      "sheep"
+      "ram",
+      "sheep (male)"
     ],
     "de": [
-      "Schaf"
+      "Widder",
+      "Schaf (männlich)"
     ]
   },
   {
@@ -28426,30 +28185,16 @@
     "id": "5aba37145898",
     "darija_latin": [
       "kimmia",
-      "kimmyya",
       "kimmya"
     ],
     "darija_ar": "كمّية",
     "class": "noun",
     "en": [
-      "quantity"
-    ],
-    "de": [
-      "Menge"
-    ]
-  },
-  {
-    "id": "e0518a99b35f",
-    "darija_latin": [
-      "kimmiya",
-      "kimmia"
-    ],
-    "darija_ar": "كمية",
-    "class": "noun",
-    "en": [
+      "quantity",
       "amount"
     ],
     "de": [
+      "Menge",
       "Betrag"
     ]
   },
@@ -29136,6 +28881,27 @@
     ]
   },
   {
+    "id": "f0b1c8d3e2a6",
+    "darija_latin": [
+      "mkteb"
+    ],
+    "darija_ar": "مكتب",
+    "class": "noun",
+    "en": [
+      "desk", 
+      "office"
+    ],
+    "de": [
+      "Schreibtisch", 
+      "Büro"
+    ],
+    "related": [
+      { "entryId": "ebe09d27c902", "type": "same_root" },
+      { "entryId": "5a98fead8d01", "type": "same_root" },
+      { "entryId": "c34279874f1c", "type": "same_root" }
+    ]
+  },
+  {
     "id": "ebe09d27c902",
     "darija_latin": [
       "ktab"
@@ -29147,6 +28913,11 @@
     ],
     "de": [
       "Buch"
+    ],
+    "related": [
+      { "entryId": "f0b1c8d3e2a6", "type": "same_root" },
+      { "entryId": "5a98fead8d01", "type": "same_root" },
+      { "entryId": "c34279874f1c", "type": "same_root" }
     ]
   },
   {
@@ -29198,16 +28969,20 @@
     "id": "5a98fead8d01",
     "darija_latin": [
       "ktba",
-      "kitaba",
-      "ktaba"
+      "kitaba"
     ],
-    "darija_ar": "كتبة",
+    "darija_ar": "كتابة",
     "class": "noun",
     "en": [
       "writing"
     ],
     "de": [
       "Schreiben"
+    ],
+    "related": [
+      { "entryId": "ebe09d27c902", "type": "same_root" },
+      { "entryId": "f0b1c8d3e2a6", "type": "same_root" },
+      { "entryId": "c34279874f1c", "type": "same_root" }
     ]
   },
   {
@@ -29311,7 +29086,7 @@
       "l3achr"
     ],
     "darija_ar": "لعاشر",
-    "class": "ordinal number",
+    "class": "ordinal_number",
     "en": [
       "tenth"
     ],
@@ -30688,7 +30463,7 @@
       "lkhams"
     ],
     "darija_ar": "لخامس",
-    "class": "ordinal number",
+    "class": "ordinal_number",
     "en": [
       "fifth"
     ],
@@ -30734,7 +30509,7 @@
       "akhir"
     ],
     "darija_ar": "اللخر",
-    "class": "ordinal number",
+    "class": "ordinal_number",
     "en": [
       "last"
     ],
@@ -31269,7 +31044,7 @@
       "lowwel"
     ],
     "darija_ar": "لوّل",
-    "class": "ordinal number",
+    "class": "ordinal_number",
     "en": [
       "first"
     ],
@@ -35314,6 +35089,12 @@
     "de": [
       "Gesamt",
       "Summe"
+    ],
+    "related": [
+      {
+        "entryId": "bc140bd96897",
+        "type": "same_root"
+      }
     ]
   },
   {
@@ -35347,6 +35128,12 @@
     "de": [
       "Gruppe",
       "Sammlung"
+    ],
+    "related": [
+      {
+        "entryId": "eca4801a4466",
+        "type": "feminine_form_of"
+      }
     ]
   },
   {
@@ -35553,22 +35340,6 @@
     ]
   },
   {
-    "id": "0046179b86f1",
-    "darija_latin": [
-      "mktaba",
-      "mektaba",
-      "maktaba"
-    ],
-    "darija_ar": "مكتابة",
-    "class": "noun",
-    "en": [
-      "library"
-    ],
-    "de": [
-      "Bibliothek"
-    ]
-  },
-  {
     "id": "c34279874f1c",
     "darija_latin": [
       "mktaba",
@@ -35581,6 +35352,11 @@
     ],
     "de": [
       "Bibliothek"
+    ],
+    "related": [
+      { "entryId": "ebe09d27c902", "type": "same_root" },
+      { "entryId": "f0b1c8d3e2a6", "type": "same_root" },
+      { "entryId": "5a98fead8d01", "type": "same_root" }
     ]
   },
   {
@@ -35929,25 +35705,12 @@
     "darija_ar": "منظر",
     "class": "noun",
     "en": [
+      "view",
       "sight"
     ],
     "de": [
+      "Aussicht",
       "Sicht"
-    ]
-  },
-  {
-    "id": "79e4cd8c6bc1",
-    "darija_latin": [
-      "mnDer",
-      "mnDr"
-    ],
-    "darija_ar": "منضر",
-    "class": "noun",
-    "en": [
-      "view"
-    ],
-    "de": [
-      "Aussicht"
     ]
   },
   {
@@ -36215,8 +35978,7 @@
   {
     "id": "15b50f58ff0c",
     "darija_latin": [
-      "mo299at",
-      "mow99at"
+      "mo299at"
     ],
     "darija_ar": "مؤقّت",
     "class": "adjective",
@@ -36226,20 +35988,6 @@
     ],
     "de": [
       "vorübergehend",
-      "vorläufig"
-    ]
-  },
-  {
-    "id": "c1e77d8acc4d",
-    "darija_latin": [
-      "mo299at"
-    ],
-    "darija_ar": "مؤقت",
-    "class": "adjective",
-    "en": [
-      "interim"
-    ],
-    "de": [
       "vorläufig"
     ]
   },
@@ -37393,22 +37141,8 @@
     "darija_ar": "مشكل",
     "class": "noun",
     "en": [
-      "problem"
-    ],
-    "de": [
-      "Problem"
-    ]
-  },
-  {
-    "id": "fe5da7042f31",
-    "darija_latin": [
-      "mochkil"
-    ],
-    "darija_ar": "موشكيل",
-    "class": "noun",
-    "en": [
-      "issue",
-      "problem"
+      "problem",
+      "issue"
     ],
     "de": [
       "Problem",
@@ -37557,7 +37291,7 @@
     "darija_ar": "مذنب",
     "class": "noun",
     "en": [
-      "guilty"
+      "guilty person"
     ],
     "de": [
       "Schuldiger"
@@ -40130,16 +39864,17 @@
     "id": "6b6ca0dc301d",
     "darija_latin": [
       "n3ja",
-      "ne3ja",
       "na3ja"
     ],
     "darija_ar": "نعجة",
     "class": "noun",
     "en": [
-      "sheep"
+      "ewe",
+      "sheep (female)"
     ],
     "de": [
-      "Schaf"
+      "Mutterschaf",
+      "Schaf (weiblich)"
     ]
   },
   {
@@ -41460,7 +41195,6 @@
   {
     "id": "c80d0e5113b6",
     "darija_latin": [
-      "nhar",
       "youm"
     ],
     "darija_ar": "يوم",
@@ -41475,8 +41209,7 @@
   {
     "id": "71344d07cf4a",
     "darija_latin": [
-      "nhar",
-      "n8ar"
+      "nhar"
     ],
     "darija_ar": "نهار",
     "class": "noun",
@@ -42669,29 +42402,18 @@
   {
     "id": "6a1a39681dfb",
     "darija_latin": [
-      "pc"
+      "pc",
+      "pisi"
     ],
     "darija_ar": "پيسي",
     "class": "noun",
     "en": [
+      "computer",
       "laptop"
     ],
     "de": [
+      "Computer",
       "Laptop"
-    ]
-  },
-  {
-    "id": "ee2fe8b90c28",
-    "darija_latin": [
-      "pc"
-    ],
-    "darija_ar": "بيسي",
-    "class": "noun",
-    "en": [
-      "computer"
-    ],
-    "de": [
-      "Computer"
     ]
   },
   {
@@ -44062,20 +43784,6 @@
     ]
   },
   {
-    "id": "2390d2880a81",
-    "darija_latin": [
-      "rjal"
-    ],
-    "darija_ar": "رجال",
-    "class": "noun",
-    "en": [
-      "men"
-    ],
-    "de": [
-      "Männer"
-    ]
-  },
-  {
     "id": "29830e0428dc",
     "darija_latin": [
       "rjel",
@@ -44419,7 +44127,7 @@
       "rraba3"
     ],
     "darija_ar": "الرابع",
-    "class": "ordinal number",
+    "class": "ordinal_number",
     "en": [
       "fourth"
     ],
@@ -46714,7 +46422,7 @@
       "ssab3"
     ],
     "darija_ar": "السابع",
-    "class": "ordinal number",
+    "class": "ordinal_number",
     "en": [
       "seventh"
     ],
@@ -46729,7 +46437,7 @@
       "ssades"
     ],
     "darija_ar": "السادس",
-    "class": "ordinal number",
+    "class": "ordinal_number",
     "en": [
       "sixth"
     ],
@@ -48970,21 +48678,6 @@
     ]
   },
   {
-    "id": "7da3ac78581e",
-    "darija_latin": [
-      "taSarrof",
-      "taSarrouf"
-    ],
-    "darija_ar": "تصرف",
-    "class": "noun",
-    "en": [
-      "behaviour"
-    ],
-    "de": [
-      "Verhalten"
-    ]
-  },
-  {
     "id": "44ce9cca91b6",
     "darija_latin": [
       "taSfi9",
@@ -49002,7 +48695,6 @@
   {
     "id": "7a10a2ab6499",
     "darija_latin": [
-      "taSrrof",
       "taSarrof",
       "taSarrouf"
     ],
@@ -49042,21 +48734,6 @@
     ],
     "de": [
       "freiwillig"
-    ]
-  },
-  {
-    "id": "fdcc4820943b",
-    "darija_latin": [
-      "taab3",
-      "tabaa"
-    ],
-    "darija_ar": "تابع",
-    "class": "preposition",
-    "en": [
-      "following"
-    ],
-    "de": [
-      "nach"
     ]
   },
   {
@@ -49335,20 +49012,6 @@
     ]
   },
   {
-    "id": "d4c1219b46e1",
-    "darija_latin": [
-      "taman"
-    ],
-    "darija_ar": "ثمن",
-    "class": "noun",
-    "en": [
-      "cost"
-    ],
-    "de": [
-      "Kosten"
-    ]
-  },
-  {
     "id": "8b993e449264",
     "darija_latin": [
       "taman"
@@ -49356,24 +49019,12 @@
     "darija_ar": "تمن",
     "class": "noun",
     "en": [
-      "price"
+      "price",
+      "cost"
     ],
     "de": [
-      "Preis"
-    ]
-  },
-  {
-    "id": "28cd87613095",
-    "darija_latin": [
-      "taman"
-    ],
-    "darija_ar": "التمن",
-    "class": "noun",
-    "en": [
-      "price"
-    ],
-    "de": [
-      "Preis"
+      "Preis",
+      "Kosten"
     ]
   },
   {
@@ -49434,20 +49085,6 @@
     ]
   },
   {
-    "id": "f27b2902c2de",
-    "darija_latin": [
-      "tanffos"
-    ],
-    "darija_ar": "تنفس",
-    "class": "noun",
-    "en": [
-      "breathing"
-    ],
-    "de": [
-      "Atmung"
-    ]
-  },
-  {
     "id": "5ac01424e237",
     "darija_latin": [
       "tanffos",
@@ -49463,24 +49100,9 @@
     ]
   },
   {
-    "id": "4244389b6c84",
-    "darija_latin": [
-      "tani"
-    ],
-    "darija_ar": "تاني",
-    "class": "noun",
-    "en": [
-      "second"
-    ],
-    "de": [
-      "Sekunde"
-    ]
-  },
-  {
     "id": "6dadafe26c29",
     "darija_latin": [
-      "tania",
-      "thania"
+      "tania"
     ],
     "darija_ar": "تانية",
     "class": "noun",
@@ -52042,7 +51664,7 @@
       "ttalt"
     ],
     "darija_ar": "التالت",
-    "class": "ordinal number",
+    "class": "ordinal_number",
     "en": [
       "third"
     ],
@@ -52057,7 +51679,7 @@
       "ttamn"
     ],
     "darija_ar": "التامن",
-    "class": "ordinal number",
+    "class": "ordinal_number",
     "en": [
       "eighth"
     ],
@@ -52071,7 +51693,7 @@
       "ttani"
     ],
     "darija_ar": "التاني",
-    "class": "ordinal number",
+    "class": "ordinal_number",
     "en": [
       "second"
     ],
@@ -52102,7 +51724,7 @@
       "ttase3"
     ],
     "darija_ar": "التاسع",
-    "class": "ordinal number",
+    "class": "ordinal_number",
     "en": [
       "ninth"
     ],
@@ -53728,26 +53350,9 @@
   {
     "id": "29c6355893f3",
     "darija_latin": [
-      "yed",
-      "yd",
-      "id"
+      "yed"
     ],
     "darija_ar": "يد",
-    "class": "noun",
-    "en": [
-      "hand"
-    ],
-    "de": [
-      "Hand"
-    ]
-  },
-  {
-    "id": "ca1b311325aa",
-    "darija_latin": [
-      "yed",
-      "idd"
-    ],
-    "darija_ar": "يدّ",
     "class": "noun",
     "en": [
       "hand"
