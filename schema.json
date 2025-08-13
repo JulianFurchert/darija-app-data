@@ -81,12 +81,6 @@
         "gender": { "$ref": "#/definitions/Gender" },
         "number": { "$ref": "#/definitions/GrammaticalNumber" },
 
-        "plural_latin": {
-          "type": "array",
-          "items": { "type": "string", "minLength": 1 },
-          "uniqueItems": true
-        },
-
         "forms": {
           "type": "array",
           "items": { "$ref": "#/definitions/WordForm" }
