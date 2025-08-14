@@ -19048,10 +19048,8 @@
   {
     "id": "a2c432b5d8c4",
     "darija_latin": [
-      "9rra",
       "9erra",
-      "qrra",
-      "qerra"
+      "9rra"
     ],
     "darija_ar": "قرّا",
     "class": "verb",
@@ -129924,7 +129922,6 @@
   {
     "id": "d9b389124d25",
     "darija_latin": [
-      "ttrina",
       "trina"
     ],
     "darija_ar": "ترينا",
