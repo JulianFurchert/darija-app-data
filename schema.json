@@ -90,7 +90,8 @@
           "type": "array",
           "items": { "$ref": "#/definitions/RelatedEntry" }
         },
-
+        "category": { "type": "string" },
+        "category_confidence": { "type": "number", "minimum": 0, "maximum": 1 },
         "frequency_score": { "type": "integer" },
         "is_daily_darija": { "type": "boolean", "default": false },
         "is_standard_arabic": { "type": "boolean", "default": false },
@@ -98,7 +99,56 @@
         "user_summary_en": { "type": "string" },
         "reviewed": { "type": "boolean", "default": false }
       },
-      "required": ["id", "darija_ar", "darija_latin", "class", "en", "de"]
+      "required": ["id", "darija_ar", "darija_latin", "class", "en", "de"],
+      "allOf": [
+        {
+          "if": { "properties": { "class": { "const": "noun" } } },
+          "then": {
+            "properties": {
+              "category": {
+                "type": "string",
+                "enum": [
+                  "abstract_concepts", "animals_plants", "colors", "communication", "culture_leisure", "feelings_emotions", "food_drink", "objects_tools", "other", "people_professions", "places_environment", "religion_belief"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "if": { "properties": { "class": { "const": "verb" } } },
+          "then": {
+            "properties": {
+              "category": {
+                "type": "string",
+                "enum": [
+                  "change_transformation", "communication", "condition_state", "creation_work", "culture_leisure", "existence", "feelings_emotions", "movement", "other", "perception", "religious_actions", "thinking_planning", "possession"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "if": { "properties": { "class": { "const": "adjective" } } },
+          "then": {
+            "properties": {
+              "category": {
+                "type": "string",
+                "enum": [
+                  "abstract_concepts", "colors", "condition_state", "evaluation_quality", "feelings_mood", "food_drink", "other", "perception", "quantity_intensity", "religious_descriptions", "size_shape", "temperature"
+                ]
+              }
+            }
+          }
+        },
+        {
+          "if": { "properties": { "class": { "not": { "enum": ["noun", "verb", "adjective"] } } } },
+          "then": {
+            "properties": {
+              "category": { "type": "string", "enum": ["other"] }
+            }
+          }
+        }
+      ]
     }
   }
 }
