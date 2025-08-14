@@ -97,7 +97,9 @@
         "is_standard_arabic": { "type": "boolean", "default": false },
         "user_summary_de": { "type": "string" },
         "user_summary_en": { "type": "string" },
-        "reviewed": { "type": "boolean", "default": false }
+        "reviewed": { "type": "boolean", "default": false },
+        "include": { "type": "boolean", "default": true },
+        "validation": { "type": "object" }
       },
       "required": ["id", "darija_ar", "darija_latin", "class", "en", "de"],
       "allOf": [
