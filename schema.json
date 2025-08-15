@@ -140,6 +140,12 @@
           "minimum": 0,
           "maximum": 1
         },
+
+        "cefr_level": {
+          "type": "string",
+          "enum": ["A1", "A2", "B1", "B2", "C1", "C2"]
+        },
+        
         "frequency_score": { "type": "integer" },
         "is_daily_darija": { "type": "boolean", "default": false },
         "is_standard_arabic": { "type": "boolean", "default": false },
