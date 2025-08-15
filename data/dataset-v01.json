@@ -1152,7 +1152,7 @@
     "user_summary_de": "Es wird gelegentlich in Gesprächen über Anatomie verwendet.",
     "user_summary_en": "It is occasionally used in conversations about anatomy.",
     "category_confidence": 0.8,
-    "category": "animals_plants",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Basic noun referring to a body part.",
@@ -1753,7 +1753,7 @@
     "user_summary_de": "Es wird gelegentlich in medizinischen Kontexten verwendet und ist bekannt, aber nicht alltäglich.",
     "user_summary_en": "It is occasionally used in medical contexts and is known but not everyday.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Common noun related to health and fitness.",
@@ -3354,7 +3354,7 @@
     "user_summary_de": "Es wird oft in alltäglichen Gesprächen genutzt und ist zentral im täglichen Sprachgebrauch.",
     "user_summary_en": "It is often used in everyday conversations and is central in daily language.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Basic noun for describing time periods.",
@@ -3454,7 +3454,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Commonly used noun in everyday language.",
@@ -3753,7 +3753,7 @@
     "user_summary_de": "Es wird gelegentlich in medizinischen oder anatomischen Kontexten verwendet.",
     "user_summary_en": "It is occasionally used in medical or anatomical contexts.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Specific noun relevant in anatomical contexts.",
@@ -4573,7 +4573,7 @@
     "user_summary_de": "Es wird oft in Tageszeitbeschreibungen genutzt und ist zentral im täglichen Sprachgebrauch.",
     "user_summary_en": "It is often used in time of day descriptions and is central in everyday language.",
     "category_confidence": 0.7,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Common noun for time of day.",
@@ -5147,7 +5147,7 @@
     "user_summary_de": "Es wird selten verwendet, stammt aus dem Hocharabischen und wird in wirtschaftlichen Kontexten genutzt.",
     "user_summary_en": "It is rarely used, comes from Standard Arabic and is used in economic contexts.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Relevant noun in economic contexts.",
@@ -5289,7 +5289,7 @@
     "user_summary_de": "Es wird gelegentlich in medizinischen Kontexten verwendet.",
     "user_summary_en": "It is occasionally used in medical contexts.",
     "category_confidence": 0.6,
-    "category": "people_professions",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Basic anatomical term.",
@@ -5858,7 +5858,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.7,
-    "category": "objects_tools",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Essential noun for body parts.",
@@ -6923,7 +6923,7 @@
     "user_summary_de": "Es wird häufig in Gesprächen genutzt und ist zentral im täglichen Sprachgebrauch.",
     "user_summary_en": "It is often used in conversations and is central in everyday language.",
     "category_confidence": 0.8,
-    "category": "people_professions",
+    "category": "humanbody",
     "include": false,
     "validation": {
       "reason": "Not a widely used term in Darija.",
@@ -7103,7 +7103,7 @@
     "user_summary_de": "Es wird häufig in Gesprächen genutzt und ist zentral im täglichen Sprachgebrauch.",
     "user_summary_en": "It is often used in conversations and is central in everyday language.",
     "category_confidence": 0.8,
-    "category": "people_professions",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Commonly used in both medical and social contexts.",
@@ -7588,7 +7588,7 @@
     "user_summary_de": "Es wird in wirtschaftlichen Gesprächen verwendet und ist bekannt, aber nicht alltäglich.",
     "user_summary_en": "It is used in economic discussions and is known but not everyday.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Important term related to economy and finance.",
@@ -7697,7 +7697,7 @@
     "user_summary_de": "Es wird oft in Gesprächen verwendet und ist wichtig im Alltag.",
     "user_summary_en": "It is often used in conversations and is important in daily life.",
     "category_confidence": 0.7,
-    "category": "people_professions",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Basic anatomical term.",
@@ -11204,7 +11204,7 @@
     "user_summary_de": "Es wird gelegentlich in Gesprächen über Aussehen verwendet.",
     "user_summary_en": "It is occasionally used in conversations about appearance.",
     "category_confidence": 0.8,
-    "category": "people_professions",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Basic noun for a facial feature.",
@@ -11878,7 +11878,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.9,
-    "category": "places_environment",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Basic noun for everyday commerce and shopping.",
@@ -14694,7 +14694,7 @@
     "user_summary_de": "Es wird selten verwendet und ist im Alltag weniger wichtig.",
     "user_summary_en": "It is rarely used and is less important in daily life.",
     "category_confidence": 0.8,
-    "category": "objects_tools",
+    "category": "humanbody",
     "include": false,
     "validation": {
       "reason": "Less commonly used in everyday conversation.",
@@ -15589,7 +15589,7 @@
     "user_summary_de": "Es wird häufig in alltäglichen Gesprächen über Körperteile verwendet.",
     "user_summary_en": "It is frequently used in everyday conversations about body parts.",
     "category_confidence": 0.8,
-    "category": "people_professions",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Relevant noun for 'cheek' in Darija.",
@@ -16735,7 +16735,7 @@
     "user_summary_de": "Es wird gelegentlich in Gesprächen über Frisuren verwendet.",
     "user_summary_en": "It is occasionally used in discussions about hairstyles.",
     "category_confidence": 0.8,
-    "category": "culture_leisure",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Common term for a basic service.",
@@ -17395,7 +17395,7 @@
     "user_summary_de": "Es wird selten verwendet, stammt aus dem Hocharabischen und wird in formellen Kontexten genutzt.",
     "user_summary_en": "It is rarely used, comes from Standard Arabic and is used in formal contexts.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Important noun in economic contexts.",
@@ -20232,7 +20232,7 @@
     "user_summary_de": "Es wird oft in Familiengesprächen genutzt und ist zentral im täglichen Sprachgebrauch.",
     "user_summary_en": "It is often used in family conversations and is central in everyday language.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Common noun with clear meaning.",
@@ -20482,7 +20482,7 @@
     "user_summary_de": "Es wird selten verwendet, stammt aus dem Hocharabischen und wird in formellen Reden genutzt.",
     "user_summary_en": "It is rarely used, comes from Standard Arabic and is used in formal speeches.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Important noun for financial contexts.",
@@ -20689,7 +20689,7 @@
     "user_summary_de": "Es wird selten verwendet, stammt aus dem Hocharabischen und ist in historischen Kontexten relevant.",
     "user_summary_en": "It is rarely used, comes from Standard Arabic and is relevant in historical contexts.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Common noun for historical contexts.",
@@ -23955,7 +23955,7 @@
     "user_summary_de": "Es wird häufig in wirtschaftlichen Diskussionen genutzt und ist zentral im täglichen Sprachgebrauch.",
     "user_summary_en": "It is often used in economic discussions and is central in everyday language.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Important noun related to economy.",
@@ -25286,7 +25286,7 @@
     "user_summary_de": "Es wird gelegentlich verwendet, stammt aus dem Hocharabischen und ist in wirtschaftlichen Kontexten relevant.",
     "user_summary_en": "It is occasionally used, comes from Standard Arabic and is relevant in economic contexts.",
     "category_confidence": 0.9,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Widely used term in economic and legal contexts.",
@@ -25688,7 +25688,7 @@
     "user_summary_de": "Es wird oft in Gesprächen über Körperpflege verwendet und ist wichtig.",
     "user_summary_en": "It is often used in conversations about personal care and is important.",
     "category_confidence": 0.8,
-    "category": "objects_tools",
+    "category": "humanbody",
     "include": false,
     "validation": {
       "reason": "Less common noun, not essential for a compact dictionary.",
@@ -25725,7 +25725,7 @@
     "user_summary_de": "Es wird häufig in alltäglichen Gesprächen genutzt und ist zentral.",
     "user_summary_en": "It is frequently used in everyday conversations and is central.",
     "category_confidence": 0.8,
-    "category": "people_professions",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Common noun, important for basic vocabulary.",
@@ -25795,7 +25795,7 @@
     "user_summary_de": "Es wird gelegentlich in medizinischen Kontexten verwendet und ist bekannt.",
     "user_summary_en": "It is occasionally used in medical contexts and is known.",
     "category_confidence": 0.8,
-    "category": "animals_plants",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Common anatomical term.",
@@ -26575,7 +26575,7 @@
     "user_summary_de": "Es wird gelegentlich in Freizeitgesprächen verwendet und ist bekannt, aber nicht alltäglich.",
     "user_summary_en": "It is occasionally used in leisure conversations and is known but not everyday.",
     "category_confidence": 0.8,
-    "category": "culture_leisure",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Fishing is a common activity and relevant in Darija.",
@@ -27993,7 +27993,7 @@
     "user_summary_de": "Es wird oft in alltäglichen Gesprächen verwendet und ist zentral im täglichen Sprachgebrauch.",
     "user_summary_en": "It is often used in everyday conversations and is central in daily language.",
     "category_confidence": 0.8,
-    "category": "objects_tools",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Basic body part, essential vocabulary.",
@@ -28356,7 +28356,7 @@
     "user_summary_de": "Es wird selten verwendet, stammt aus dem Hocharabischen und ist in formellen Kontexten relevant.",
     "user_summary_en": "It is rarely used, comes from Standard Arabic and is relevant in formal contexts.",
     "category_confidence": 0.7,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Multiple meanings make it a relevant entry.",
@@ -29061,7 +29061,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.7,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Commonly used noun for time-related discussions.",
@@ -29111,7 +29111,7 @@
     "user_summary_de": "Es wird selten verwendet, stammt aus dem Hocharabischen und wird in formellen Kontexten genutzt.",
     "user_summary_en": "It is rarely used, comes from Standard Arabic and is used in formal contexts.",
     "category_confidence": 0.9,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Relevant noun for economic and industrial contexts.",
@@ -31276,7 +31276,7 @@
     "user_summary_de": "Es wird gelegentlich in formellen Kontexten verwendet.",
     "user_summary_en": "It is occasionally used in formal contexts.",
     "category_confidence": 0.85,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Commonly used in formal and informal contexts.",
@@ -31310,7 +31310,7 @@
     "user_summary_de": "Es wird gelegentlich in wirtschaftlichen Gesprächen verwendet.",
     "user_summary_en": "It is occasionally used in economic discussions.",
     "category_confidence": 0.85,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": false,
     "validation": {
       "reason": "Duplicate entry with different meaning.",
@@ -36664,7 +36664,7 @@
     "user_summary_de": "Es wird gelegentlich in wirtschaftlichen Gesprächen verwendet.",
     "user_summary_en": "It is occasionally used in economic discussions.",
     "category_confidence": 0.9,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Relevant noun in financial contexts.",
@@ -36958,7 +36958,7 @@
     "user_summary_de": "Es wird gelegentlich in Kalendergesprächen verwendet, ist aber nicht zentral.",
     "user_summary_en": "It is occasionally used in calendar talks but not central.",
     "category_confidence": 0.7,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "April is a basic term for months and widely used.",
@@ -38202,7 +38202,7 @@
     "user_summary_de": "Es wird gelegentlich in Planungen verwendet und ist bekannt aber nicht alltäglich.",
     "user_summary_en": "It is occasionally used in planning and is known but not everyday.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Useful expression for time reference.",
@@ -38358,7 +38358,7 @@
     "user_summary_de": "Es wird gelegentlich in Gesprächen verwendet und ist bekannt, aber nicht alltäglich.",
     "user_summary_en": "It is occasionally used in conversations and is known but not everyday.",
     "category_confidence": 0.7,
-    "category": "people_professions",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Commonly used anatomical term.",
@@ -39289,7 +39289,7 @@
     "user_summary_de": "Es wird oft in Gesprächen über Finanzen genutzt.",
     "user_summary_en": "It is often used in conversations about finances.",
     "category_confidence": 0.8,
-    "category": "places_environment",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Common noun for financial institution.",
@@ -40226,7 +40226,7 @@
     "user_summary_de": "Es wird häufig beim Einkaufen benutzt und ist ein wichtiges Wort für den Alltag.",
     "user_summary_en": "It is common when shopping and is an important word for daily life.",
     "category_confidence": 0.9,
-    "category": "people_professions",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Common noun for a profession.",
@@ -41161,7 +41161,7 @@
     "user_summary_de": "Es wird häufig in wirtschaftlichen Gesprächen genutzt und ist wichtig im Alltag.",
     "user_summary_en": "It is frequently used in business conversations and is important in daily life.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Commonly used term for 'business' in Darija.",
@@ -41881,7 +41881,7 @@
     "user_summary_de": "Es wird häufig in Alltagsgesprächen über Vorhaben genutzt.",
     "user_summary_en": "It is frequently used in everyday conversations about plans.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Commonly used term in planning contexts.",
@@ -42264,7 +42264,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.9,
-    "category": "people_professions",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Fundamental noun in language.",
@@ -43204,7 +43204,7 @@
     "user_summary_de": "Es wird gelegentlich in Wirtschaftsgesprächen genutzt.",
     "user_summary_en": "It is occasionally used in economic discussions.",
     "category_confidence": 0.9,
-    "category": "places_environment",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Commonly used term in economic contexts.",
@@ -43672,7 +43672,7 @@
     "user_summary_de": "Es wird häufig in Medien und Unterhaltung verwendet und ist wichtig für den Alltag.",
     "user_summary_en": "It is frequently used in media and entertainment and is important for daily life.",
     "category_confidence": 0.8,
-    "category": "culture_leisure",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Commonly used noun with multiple meanings.",
@@ -44417,7 +44417,7 @@
     "user_summary_de": "Es wird gelegentlich verwendet, bekannt aber nicht alltäglich.",
     "user_summary_en": "It is occasionally used, known but not everyday.",
     "category_confidence": 0.9,
-    "category": "people_professions",
+    "category": "economy",
     "include": false,
     "validation": {
       "reason": "Specific slang term not suitable for a general dictionary.",
@@ -44650,7 +44650,7 @@
     "user_summary_de": "Es wird gelegentlich in literarischen oder persönlichen Gesprächen verwendet.",
     "user_summary_en": "It is occasionally used in literary or personal conversations.",
     "category_confidence": 0.6,
-    "category": "abstract_concepts",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Commonly used noun with dual meanings.",
@@ -44892,7 +44892,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Basic noun for time measurement.",
@@ -45949,7 +45949,7 @@
     "user_summary_de": "Es wird häufig in beruflichen Kontexten verwendet und ist wichtig im Alltag.",
     "user_summary_en": "It is frequently used in professional contexts and is important in daily life.",
     "category_confidence": 0.8,
-    "category": "people_professions",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Commonly used in professional and financial contexts.",
@@ -46624,7 +46624,7 @@
     "user_summary_de": "Es wird häufig in geschäftlichen Kontexten genutzt und ist ein wichtiges Wort für den Alltag.",
     "user_summary_en": "It is frequently used in business contexts and is an important word for daily life.",
     "category_confidence": 0.8,
-    "category": "places_environment",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Commonly used noun for businesses.",
@@ -46935,7 +46935,7 @@
     "user_summary_de": "Es wird gelegentlich in Gesprächen über Gerüche verwendet.",
     "user_summary_en": "It is occasionally used in conversations about smells.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Common noun related to senses.",
@@ -46969,7 +46969,7 @@
     "user_summary_de": "Es wird gelegentlich in Gesprächen über Sicht verwendet.",
     "user_summary_en": "It is occasionally used in conversations about sight.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Common noun related to senses.",
@@ -47003,7 +47003,7 @@
     "user_summary_de": "Es wird häufig beim Einkaufen benutzt und ist wichtig im Alltag.",
     "user_summary_en": "It is frequently used when shopping and is important in daily life.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": false,
     "validation": {
       "reason": "Misspelling in English translation.",
@@ -47498,7 +47498,7 @@
     "user_summary_de": "Es wird häufig in alltäglichen Gesprächen genutzt und ist zentral im täglichen Sprachgebrauch.",
     "user_summary_en": "It is frequently used in daily conversations and is central in everyday language.",
     "category_confidence": 0.8,
-    "category": "animals_plants",
+    "category": "people_professions",
     "include": false,
     "validation": {
       "reason": "Incorrect translation; not a common Darija term.",
@@ -47621,7 +47621,7 @@
     "user_summary_de": "Es wird häufig in Gesprächen verwendet und ist zentral im täglichen Sprachgebrauch.",
     "user_summary_en": "It is often used in conversations and is central in everyday language.",
     "category_confidence": 0.8,
-    "category": "people_professions",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Common noun used in everyday language.",
@@ -49618,7 +49618,7 @@
     "user_summary_de": "Es wird gelegentlich in Gesprächen über Zeit und Monate verwendet.",
     "user_summary_en": "It is occasionally used in conversations about time and months.",
     "category_confidence": 0.7,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Common noun for a month name.",
@@ -49966,7 +49966,7 @@
     "user_summary_de": "Es wird häufig beim Einkaufen benutzt und ist ein wichtiges Wort für den Alltag.",
     "user_summary_en": "It is common when shopping and is an important word for daily life.",
     "category_confidence": 0.9,
-    "category": "people_professions",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Common noun in commercial contexts.",
@@ -51156,7 +51156,7 @@
     "user_summary_de": "Es wird oft in Gesprächen genutzt und ist zentral im täglichen Sprachgebrauch.",
     "user_summary_en": "It is often used in conversations and is central in everyday language.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Commonly used word for time measurement.",
@@ -51260,7 +51260,7 @@
     "user_summary_de": "Es wird gelegentlich in sozialen Kontexten verwendet.",
     "user_summary_en": "It is occasionally used in social contexts.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Common term for assistance.",
@@ -51513,7 +51513,7 @@
     "user_summary_de": "Es wird oft in Gesprächen genutzt und ist zentral im täglichen Sprachgebrauch.",
     "user_summary_en": "It is often used in conversations and is central in everyday language.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": false,
     "validation": {
       "reason": "Incorrect class and alternative form is more accurate.",
@@ -52854,7 +52854,7 @@
     "user_summary_de": "Es wird gelegentlich in medizinischen Kontexten verwendet.",
     "user_summary_en": "It is occasionally used in medical contexts.",
     "category_confidence": 0.7,
-    "category": "abstract_concepts",
+    "category": "humanbody",
     "include": false,
     "validation": {
       "reason": "Not commonly used in everyday conversation.",
@@ -52959,7 +52959,7 @@
     "user_summary_de": "Es wird oft in kulinarischen Gesprächen genutzt und ist zentral im täglichen Sprachgebrauch.",
     "user_summary_en": "It is often used in culinary conversations and is central in everyday language.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Commonly used in everyday language.",
@@ -53066,7 +53066,7 @@
     "user_summary_de": "Es wird häufig in alltäglichen Gesprächen genutzt und ist zentral im täglichen Sprachgebrauch.",
     "user_summary_en": "It is often used in everyday conversations and is central in daily language.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Basic and essential term.",
@@ -54788,7 +54788,7 @@
     "user_summary_de": "Es wird gelegentlich in Gesprächen verwendet, ist jedoch nicht alltäglich.",
     "user_summary_en": "It is occasionally used in conversations but is not everyday.",
     "category_confidence": 0.7,
-    "category": "abstract_concepts",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Common noun for brain.",
@@ -55201,7 +55201,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Common noun for a month name.",
@@ -55665,7 +55665,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Currency name, important for daily transactions.",
@@ -55699,7 +55699,7 @@
     "user_summary_de": "Es wird häufig in Gesprächen genutzt und ist zentral im täglichen Sprachgebrauch.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.8,
-    "category": "people_professions",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Basic noun for a body part.",
@@ -57679,7 +57679,7 @@
     "user_summary_de": "Es wird häufig beim Einkaufen benutzt und ist ein wichtiges Wort für den Alltag.",
     "user_summary_en": "It is common when shopping and is an important word for daily life.",
     "category_confidence": 0.8,
-    "category": "objects_tools",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Essential term for financial transactions.",
@@ -58731,7 +58731,7 @@
     "user_summary_de": "Es wird häufig in Gesprächen genutzt und ist wichtig für den Alltag.",
     "user_summary_en": "It is frequently used in conversations and important for daily life.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Refers to a common concept of time.",
@@ -58941,7 +58941,7 @@
     "user_summary_de": "Es wird selten verwendet, stammt aus dem Hocharabischen und ist in wirtschaftlichen Diskussionen relevant.",
     "user_summary_en": "It is rarely used, comes from Standard Arabic and is relevant in economic discussions.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": false,
     "validation": {
       "reason": "Less commonly used term.",
@@ -59738,7 +59738,7 @@
     "user_summary_de": "Es wird gelegentlich in Gesprächen über Zeit verwendet.",
     "user_summary_en": "It is occasionally used in conversations about time.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Commonly used month name.",
@@ -60394,7 +60394,7 @@
     "user_summary_de": "Es wird gelegentlich in medizinischen oder anatomischen Kontexten verwendet.",
     "user_summary_en": "It is occasionally used in medical or anatomical contexts.",
     "category_confidence": 0.7,
-    "category": "people_professions",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Commonly used anatomical term.",
@@ -60735,7 +60735,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.9,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Essential noun for everyday transactions.",
@@ -60931,7 +60931,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.8,
-    "category": "people_professions",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Commonly used noun for a body part.",
@@ -63356,7 +63356,7 @@
     "user_summary_de": "Es wird gelegentlich verwendet und ist bekannt, aber nicht alltäglich.",
     "user_summary_en": "It is occasionally used and known but not everyday.",
     "category_confidence": 0.8,
-    "category": "objects_tools",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Basic noun referring to a body part.",
@@ -64545,7 +64545,7 @@
     "user_summary_de": "Es wird häufig in Gesprächen über Mahlzeiten genutzt.",
     "user_summary_en": "It is frequently used in conversations about meals.",
     "category_confidence": 0.7,
-    "category": "food_drink",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Commonly used noun with dual meanings.",
@@ -64654,7 +64654,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.6,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Commonly used noun for future reference.",
@@ -65312,7 +65312,7 @@
     "user_summary_de": "Es wird gelegentlich in Gesprächen über Zeit verwendet.",
     "user_summary_en": "It is occasionally used in conversations about time.",
     "category_confidence": 0.7,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Name of a month, universally recognized.",
@@ -67622,7 +67622,7 @@
     "user_summary_de": "Es wird selten verwendet, stammt aus dem Hocharabischen und wird in formellen Reden genutzt.",
     "user_summary_en": "It is rarely used, comes from Standard Arabic and is used in formal speeches.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Important noun with multiple uses.",
@@ -67890,7 +67890,7 @@
     "user_summary_de": "Es wird vor allem in politischen Diskussionen verwendet und ist im Alltag weniger wichtig.",
     "user_summary_en": "It is mainly used in political discussions and is less relevant in daily life.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Relevant noun in political and social contexts.",
@@ -68399,7 +68399,7 @@
     "user_summary_de": "Es wird gelegentlich in wirtschaftlichen Kontexten verwendet und ist bekannt, aber nicht alltäglich.",
     "user_summary_en": "It is occasionally used in economic contexts and is known but not everyday.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Important term in financial and legal contexts.",
@@ -69249,7 +69249,7 @@
     "user_summary_de": "Es wird oft in Familiengesprächen genutzt und ist zentral im täglichen Sprachgebrauch.",
     "user_summary_en": "It is often used in family conversations and is central in everyday language.",
     "category_confidence": 0.8,
-    "category": "people_professions",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Fundamental noun used frequently.",
@@ -69493,7 +69493,7 @@
     "user_summary_de": "Es wird vor allem in formellen Reden verwendet und ist im Alltag weniger wichtig.",
     "user_summary_en": "It is mainly used in formal speeches and is less relevant in daily life.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Commonly used in political and organizational contexts.",
@@ -71071,7 +71071,7 @@
     "user_summary_de": "Es wird häufig in alltäglichen Gesprächen genutzt und ist wichtig.",
     "user_summary_en": "It is frequently used in daily conversations and is important.",
     "category_confidence": 0.8,
-    "category": "people_professions",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Common anatomical term.",
@@ -71534,7 +71534,7 @@
     "user_summary_de": "Es wird häufig in Gesprächen über Materialien verwendet und ist wichtig im Alltag.",
     "user_summary_en": "It is frequently used in conversations about materials and is important in daily life.",
     "category_confidence": 0.8,
-    "category": "objects_tools",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Basic noun with multiple meanings.",
@@ -71648,7 +71648,7 @@
     "user_summary_de": "Es wird häufig in Gesprächen über Wochenendpläne genutzt und ist wichtig im Alltag.",
     "user_summary_en": "It is frequently used in discussions about weekend plans and is important in daily life.",
     "category_confidence": 0.85,
-    "category": "religion_belief",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Commonly used to refer to Friday, an important day in Islamic culture.",
@@ -72650,7 +72650,7 @@
     "user_summary_de": "Es wird oft in sozialen Kontexten genutzt und ist zentral im täglichen Sprachgebrauch.",
     "user_summary_en": "It is often used in social contexts and is central in everyday language.",
     "category_confidence": 0.8,
-    "category": "people_professions",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Commonly used noun for 'group' or 'crowd'.",
@@ -72722,7 +72722,7 @@
     "user_summary_de": "Es wird selten verwendet, stammt aus dem Hocharabischen und wird in medizinischen Kontexten genutzt.",
     "user_summary_en": "It is rarely used, comes from Standard Arabic and is used in medical contexts.",
     "category_confidence": 0.7,
-    "category": "objects_tools",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Commonly used term for 'skull'.",
@@ -76719,7 +76719,7 @@
     "user_summary_de": "Es wird häufig in kulinarischen Gesprächen genutzt und ist wichtig im Alltag.",
     "user_summary_en": "It is often used in culinary conversations and is important in daily life.",
     "category_confidence": 0.9,
-    "category": "food_drink",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Basic noun for a common body part.",
@@ -80030,7 +80030,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.8,
-    "category": "people_professions",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Common noun for work-related contexts.",
@@ -83120,7 +83120,7 @@
     "user_summary_de": "Es wird häufig beim Einkaufen benutzt und ist ein wichtiges Wort für den Alltag.",
     "user_summary_en": "It is common when shopping and is an important word for daily life.",
     "category_confidence": 0.9,
-    "category": "people_professions",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Commonly used noun for client or customer.",
@@ -83222,7 +83222,7 @@
     "user_summary_de": "Es wird gelegentlich in medizinischen Kontexten verwendet.",
     "user_summary_en": "It is occasionally used in medical contexts.",
     "category_confidence": 0.8,
-    "category": "animals_plants",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Important noun for body parts.",
@@ -84470,7 +84470,7 @@
     "user_summary_de": "Es wird gelegentlich in Gesprächen über Wohnkosten verwendet.",
     "user_summary_en": "It is occasionally used in conversations about housing costs.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Essential noun for everyday transactions.",
@@ -84542,7 +84542,7 @@
     "user_summary_de": "Es wird gelegentlich in medizinischen Kontexten verwendet.",
     "user_summary_en": "It is occasionally used in medical contexts.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Commonly used noun in everyday language.",
@@ -84578,7 +84578,7 @@
     "user_summary_de": "Es wird häufig in finanziellen Gesprächen genutzt und ist zentral im Alltag.",
     "user_summary_en": "It is often used in financial conversations and is central in daily life.",
     "category_confidence": 0.85,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Important term in financial contexts.",
@@ -84613,7 +84613,7 @@
     "user_summary_de": "Es wird gelegentlich in Gesprächen über Probleme verwendet.",
     "user_summary_en": "It is occasionally used in discussions about problems.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Relevant term for discussing economic and personal issues.",
@@ -85178,7 +85178,7 @@
     "user_summary_de": "Es wird häufig in Gesprächen über Körperteile genutzt und ist wichtig im Alltag.",
     "user_summary_en": "It is frequently used in conversations about body parts and is important in daily life.",
     "category_confidence": 0.8,
-    "category": "objects_tools",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Basic body part noun.",
@@ -85301,7 +85301,7 @@
     "user_summary_de": "Es wird oft in Gesprächen über Finanzen genutzt und ist zentral im täglichen Sprachgebrauch.",
     "user_summary_en": "It is often used in conversations about finances and is central in everyday language.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Commonly used noun for money.",
@@ -85831,7 +85831,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.8,
-    "category": "culture_leisure",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Refers to a day of the week, essential vocabulary.",
@@ -86030,7 +86030,7 @@
     "user_summary_de": "Es wird selten verwendet, stammt aus dem Hocharabischen und ist in medizinischen Kontexten relevant.",
     "user_summary_en": "It is rarely used, comes from Standard Arabic and is relevant in medical contexts.",
     "category_confidence": 0.6,
-    "category": "other",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Relevant noun for 'tonsils', used in medical contexts.",
@@ -86101,7 +86101,7 @@
     "user_summary_de": "Es wird oft in alltäglichen Gesprächen über Aussehen verwendet.",
     "user_summary_en": "It is often used in daily conversations about appearance.",
     "category_confidence": 0.9,
-    "category": "people_professions",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Common noun for 'beard', widely used.",
@@ -86364,7 +86364,7 @@
     "user_summary_de": "Es wird gelegentlich in beruflichen Kontexten verwendet und ist bekannt, aber nicht alltäglich.",
     "user_summary_en": "It is occasionally used in professional contexts and is known but not everyday.",
     "category_confidence": 0.8,
-    "category": "people_professions",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Important term in economic contexts.",
@@ -86398,7 +86398,7 @@
     "user_summary_de": "Es wird gelegentlich in wirtschaftlichen Gesprächen verwendet und ist bekannt, aber nicht alltäglich.",
     "user_summary_en": "It is occasionally used in economic discussions and is known but not everyday.",
     "category_confidence": 0.8,
-    "category": "people_professions",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Important term in economic contexts.",
@@ -87404,7 +87404,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Commonly used term for a day of the week.",
@@ -87515,7 +87515,7 @@
     "user_summary_de": "Es wird gelegentlich in formellen Kontexten genutzt und ist bekannt, aber nicht alltäglich.",
     "user_summary_en": "It is occasionally used in formal contexts and is known but not everyday.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Important term in financial and legal contexts.",
@@ -87601,7 +87601,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.9,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Commonly used word for 'yesterday'.",
@@ -87707,7 +87707,7 @@
     "user_summary_de": "Es wird gelegentlich in wirtschaftlichen Kontexten verwendet.",
     "user_summary_en": "It is occasionally used in economic contexts.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Relevant noun for 'selling'.",
@@ -87991,7 +87991,7 @@
     "user_summary_de": "Es wird selten verwendet, stammt aus dem Hocharabischen und ist in formellen Kontexten zu finden.",
     "user_summary_en": "It is rarely used, comes from Standard Arabic and is found in formal contexts.",
     "category_confidence": 0.9,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Commonly used noun in financial contexts.",
@@ -88687,7 +88687,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Basic vocabulary word.",
@@ -89281,7 +89281,7 @@
     "user_summary_de": "Es wird häufig in Gesprächen über Wochentage verwendet.",
     "user_summary_en": "It is frequently used in conversations about weekdays.",
     "category_confidence": 0.8,
-    "category": "culture_leisure",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Commonly used noun for a day of the week.",
@@ -89567,7 +89567,7 @@
     "user_summary_de": "Es wird gelegentlich in Gesprächen verwendet und ist bekannt, aber nicht alltäglich.",
     "user_summary_en": "It is occasionally used in conversations and is known but not everyday.",
     "category_confidence": 0.7,
-    "category": "abstract_concepts",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Commonly used noun in Darija.",
@@ -89671,7 +89671,7 @@
     "user_summary_de": "Es wird häufig in wirtschaftlichen Gesprächen genutzt und ist wichtig im Alltag.",
     "user_summary_en": "It is often used in economic discussions and is important in daily life.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Relevant and important noun for everyday language.",
@@ -90194,7 +90194,7 @@
     "user_summary_de": "Es wird oft in medizinischen und alltäglichen Gesprächen genutzt.",
     "user_summary_en": "It is often used in medical and everyday conversations.",
     "category_confidence": 0.7,
-    "category": "animals_plants",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Basic noun for 'tongue'.",
@@ -90545,7 +90545,7 @@
     "user_summary_de": "Es wird selten verwendet, stammt aus dem Hocharabischen und ist in formellen Kontexten relevant.",
     "user_summary_en": "It is rarely used, comes from Standard Arabic and is relevant in formal contexts.",
     "category_confidence": 0.9,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Common legal and familial term.",
@@ -90658,7 +90658,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.85,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Commonly used time expression.",
@@ -92723,7 +92723,7 @@
     "user_summary_de": "Es wird häufig in Gesprächen über Ernährung genutzt und ist wichtig im Alltag.",
     "user_summary_en": "It is often used in conversations about nutrition and is important in daily life.",
     "category_confidence": 0.8,
-    "category": "food_drink",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Refers to a common anatomical term.",
@@ -93510,7 +93510,7 @@
     "user_summary_de": "Es wird häufig beim Einkaufen benutzt und ist ein wichtiges Wort für den Alltag.",
     "user_summary_en": "It is common when shopping and is an important word for daily life.",
     "category_confidence": 0.9,
-    "category": "places_environment",
+    "category": "economy",
     "include": false,
     "validation": {
       "reason": "Duplicate entry with incorrect Arabic script.",
@@ -93546,7 +93546,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.9,
-    "category": "places_environment",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Commonly used noun for 'shop' or 'store'.",
@@ -93757,7 +93757,7 @@
     "user_summary_de": "Es wird selten verwendet, stammt aus dem Hocharabischen und beschreibt zeitliche Konzepte.",
     "user_summary_en": "It is rarely used, comes from Standard Arabic and describes temporal concepts.",
     "category_confidence": 0.85,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Commonly used noun for 'past'.",
@@ -94136,7 +94136,7 @@
     "user_summary_de": "Es wird häufig in finanziellen Gesprächen genutzt und ist zentral im täglichen Sprachgebrauch.",
     "user_summary_en": "It is often used in financial conversations and is central in everyday language.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Commonly used noun in financial contexts.",
@@ -94555,7 +94555,7 @@
     "user_summary_de": "Es wird häufig im Alltag genutzt und ist ein wichtiges Wort.",
     "user_summary_en": "It is frequently used in daily life and is an important word.",
     "category_confidence": 0.9,
-    "category": "objects_tools",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Common noun for everyday objects.",
@@ -96339,7 +96339,7 @@
     "user_summary_de": "Es wird selten verwendet, stammt aus dem Hocharabischen und ist im Alltag weniger wichtig.",
     "user_summary_en": "It is rarely used, comes from Standard Arabic and is less important in daily life.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Common noun for time reference.",
@@ -97350,7 +97350,7 @@
     "user_summary_de": "Es wird gelegentlich in Gesprächen über Zeit verwendet.",
     "user_summary_en": "It is occasionally used in conversations about time.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": false,
     "validation": {
       "reason": "The word 'may' as a month name is not specific to Darija.",
@@ -98232,7 +98232,7 @@
     "user_summary_de": "Es wird gelegentlich verwendet, stammt aus dem Hocharabischen und ist in formellen Kontexten wichtig.",
     "user_summary_en": "It is occasionally used, comes from Standard Arabic and is important in formal contexts.",
     "category_confidence": 0.9,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Common noun used in business and everyday contexts.",
@@ -98718,7 +98718,7 @@
     "user_summary_de": "Es wird häufig in finanziellen Gesprächen genutzt.",
     "user_summary_en": "It is frequently used in financial conversations.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Commonly used word for 'income' or 'revenue'.",
@@ -98916,7 +98916,7 @@
     "user_summary_de": "Es wird selten verwendet, stammt aus dem Hocharabischen und wird in medizinischen Kontexten genutzt.",
     "user_summary_en": "It is rarely used, comes from Standard Arabic and is used in medical contexts.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Commonly used word for 'stomach'.",
@@ -99326,7 +99326,7 @@
     "user_summary_de": "Es wird gelegentlich in medizinischen oder anatomischen Kontexten verwendet.",
     "user_summary_en": "It is occasionally used in medical or anatomical contexts.",
     "category_confidence": 0.7,
-    "category": "people_professions",
+    "category": "humanbody",
     "include": false,
     "validation": {
       "reason": "The word 'menkher' is not commonly used for 'nose' in Darija.",
@@ -100933,7 +100933,7 @@
     "user_summary_de": "Es wird selten verwendet, stammt aus dem Hocharabischen und wird in formellen Reden genutzt.",
     "user_summary_en": "It is rarely used, comes from Standard Arabic and is used in formal speeches.",
     "category_confidence": 0.9,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Relevant for financial and economic discussions.",
@@ -103415,7 +103415,7 @@
     "user_summary_de": "Es wird häufig in Gesprächen über Produkte genutzt und ist wichtig.",
     "user_summary_en": "It is often used in conversations about products and is important.",
     "category_confidence": 0.8,
-    "category": "objects_tools",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Common noun used in various contexts.",
@@ -105504,7 +105504,7 @@
     "user_summary_de": "Es wird gelegentlich in wirtschaftlichen Kontexten verwendet und stammt aus dem Hocharabischen.",
     "user_summary_en": "It is occasionally used in economic contexts and comes from Standard Arabic.",
     "category_confidence": 0.8,
-    "category": "people_professions",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Important term in business contexts.",
@@ -108525,7 +108525,7 @@
     "user_summary_de": "Es wird häufig bei Feierlichkeiten genutzt und ist zentral im täglichen Sprachgebrauch.",
     "user_summary_en": "It is often used in celebrations and is central in everyday language.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Frequently used to describe events.",
@@ -109294,7 +109294,7 @@
     "user_summary_de": "Es wird häufig in Gesprächen über Pläne verwendet.",
     "user_summary_en": "It is often used in conversations about plans.",
     "category_confidence": 0.9,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Common noun for 'future'.",
@@ -109396,7 +109396,7 @@
     "user_summary_de": "Es wird oft in Gesprächen über Aussehen genutzt und ist wichtig im Alltag.",
     "user_summary_en": "It is often used in conversations about appearance and is important in daily life.",
     "category_confidence": 0.8,
-    "category": "people_professions",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Common noun for 'mustache'.",
@@ -110803,7 +110803,7 @@
     "user_summary_de": "Es wird häufig in alltäglichen Gesprächen genutzt und ist wichtig für Lernende.",
     "user_summary_en": "It is frequently used in daily conversations and is important for learners.",
     "category_confidence": 0.9,
-    "category": "objects_tools",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Common noun referring to a body part.",
@@ -117855,7 +117855,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Commonly used word for 'day'.",
@@ -117905,7 +117905,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Commonly used word for 'day'.",
@@ -118104,7 +118104,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.8,
-    "category": "people_professions",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Basic vocabulary for body parts.",
@@ -119234,7 +119234,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.8,
-    "category": "culture_leisure",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Refers to a month, universally recognized.",
@@ -120746,7 +120746,7 @@
     "user_summary_de": "Es wird gelegentlich in Gesprächen über Zeit und Planung verwendet.",
     "user_summary_en": "It is occasionally used in conversations about time and planning.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Common noun for a month name.",
@@ -122214,7 +122214,7 @@
     "user_summary_de": "Es wird gelegentlich in wirtschaftlichen Kontexten verwendet.",
     "user_summary_en": "It is occasionally used in economic contexts.",
     "category_confidence": 0.8,
-    "category": "objects_tools",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Basic economic term.",
@@ -123567,7 +123567,7 @@
     "user_summary_de": "Es wird selten verwendet, stammt aus dem Hocharabischen und in wissenschaftlichen Texten genutzt.",
     "user_summary_en": "It is rarely used, comes from Standard Arabic and is used in scientific texts.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "humanbody",
     "include": false,
     "validation": {
       "reason": "Misleading translation; 'race' is not commonly used in this context.",
@@ -123865,7 +123865,7 @@
     "user_summary_de": "Es wird gelegentlich in wirtschaftlichen Kontexten verwendet, stammt aus dem Hocharabischen.",
     "user_summary_en": "It is occasionally used in economic contexts, comes from Standard Arabic.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Important noun for economic contexts.",
@@ -123986,7 +123986,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.8,
-    "category": "people_professions",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Basic and commonly used noun.",
@@ -124305,7 +124305,7 @@
     "user_summary_de": "Es wird gelegentlich in mathematischen Kontexten genutzt.",
     "user_summary_en": "It is occasionally used in mathematical contexts.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Commonly used noun.",
@@ -125610,7 +125610,7 @@
     "user_summary_de": "Es wird selten verwendet und stammt aus dem Hocharabischen.",
     "user_summary_en": "It is rarely used and comes from Standard Arabic.",
     "category_confidence": 0.8,
-    "category": "animals_plants",
+    "category": "humanbody",
     "include": false,
     "validation": {
       "reason": "Less commonly used in everyday language.",
@@ -125791,7 +125791,7 @@
     "user_summary_de": "Es wird häufig in alltäglichen Gesprächen über Körperteile genutzt.",
     "user_summary_en": "It is often used in everyday conversations about body parts.",
     "category_confidence": 0.8,
-    "category": "objects_tools",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Basic noun for body parts.",
@@ -125826,7 +125826,7 @@
     "user_summary_de": "Es wird oft in Gesprächen über Gesundheit verwendet und ist wichtig im Alltag.",
     "user_summary_en": "It is often used in health conversations and is important in daily life.",
     "category_confidence": 0.8,
-    "category": "people_professions",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Common noun for a body part.",
@@ -126212,7 +126212,7 @@
     "user_summary_de": "Es wird gelegentlich in Gesprächen über Körperpflege verwendet.",
     "user_summary_en": "It is occasionally used in conversations about personal care.",
     "category_confidence": 0.7,
-    "category": "abstract_concepts",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Common noun for a body part.",
@@ -126753,7 +126753,7 @@
     "user_summary_de": "Es wird gelegentlich in wirtschaftlichen Kontexten verwendet.",
     "user_summary_en": "It is occasionally used in economic contexts.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Commonly used noun in economic contexts.",
@@ -128108,7 +128108,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Commonly used noun.",
@@ -128878,7 +128878,7 @@
     "user_summary_de": "Es wird gelegentlich in Gesprächen über Tourismus verwendet.",
     "user_summary_en": "It is occasionally used in conversations about tourism.",
     "category_confidence": 0.9,
-    "category": "people_professions",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Relevant noun for tourism contexts.",
@@ -129090,7 +129090,7 @@
     "user_summary_de": "Es wird selten verwendet, stammt aus dem Hocharabischen und wird in formellen Kontexten genutzt.",
     "user_summary_en": "It is rarely used, comes from Standard Arabic and is used in formal contexts.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Common financial term.",
@@ -129295,7 +129295,7 @@
     "user_summary_de": "Es wird selten verwendet, stammt aus dem Hocharabischen und ist in formellen Kontexten relevant.",
     "user_summary_en": "It is rarely used, comes from Standard Arabic and is relevant in formal contexts.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Relevant in financial contexts.",
@@ -129720,7 +129720,7 @@
     "user_summary_de": "Es wird oft in Familiengesprächen genutzt und ist zentral im täglichen Sprachgebrauch.",
     "user_summary_en": "It is often used in family conversations and is central in everyday language.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Commonly used noun.",
@@ -129978,7 +129978,7 @@
     "user_summary_de": "Es wird häufig in Alltagsgesprächen über Zeit genutzt.",
     "user_summary_en": "It is often used in everyday conversations about time.",
     "category_confidence": 0.7,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Commonly used noun for days of the week.",
@@ -130274,7 +130274,7 @@
     "user_summary_de": "Es wird häufig beim Einkaufen benutzt und ist wichtig.",
     "user_summary_en": "It is often used when shopping and is important.",
     "category_confidence": 0.85,
-    "category": "objects_tools",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Frequently used in commerce and trade.",
@@ -130415,7 +130415,7 @@
     "user_summary_de": "Es wird häufig in alltäglichen Gesprächen verwendet.",
     "user_summary_en": "It is frequently used in everyday conversations.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Commonly used in various service contexts.",
@@ -131121,7 +131121,7 @@
     "user_summary_de": "Es wird oft in Gesprächen über Reisen verwendet und ist wichtig.",
     "user_summary_en": "It is often used in travel discussions and is important.",
     "category_confidence": 0.8,
-    "category": "culture_leisure",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Relevant noun in economic and cultural discussions.",
@@ -132488,7 +132488,7 @@
     "user_summary_de": "Es wird gelegentlich in Gesundheitsgesprächen verwendet.",
     "user_summary_en": "It is occasionally used in health-related conversations.",
     "category_confidence": 0.7,
-    "category": "people_professions",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Basic noun for 'tooth'.",
@@ -132889,7 +132889,7 @@
     "user_summary_de": "Es wird häufig beim Einkaufen benutzt und ist ein wichtiges Wort für den Alltag.",
     "user_summary_en": "It is common when shopping and is an important word for daily life.",
     "category_confidence": 0.9,
-    "category": "places_environment",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Essential noun for market, with multiple common forms.",
@@ -132965,7 +132965,7 @@
     "user_summary_de": "Es wird selten verwendet, stammt aus dem Hocharabischen und wird in wirtschaftlichen Kontexten genutzt.",
     "user_summary_en": "It is rarely used, comes from Standard Arabic and is used in economic contexts.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Important term in finance.",
@@ -133634,7 +133634,7 @@
     "user_summary_de": "Es wird selten verwendet, stammt aus dem Hocharabischen und ist in wissenschaftlichen Texten relevant.",
     "user_summary_en": "It is rarely used, comes from Standard Arabic and is relevant in scientific texts.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Common noun related to senses.",
@@ -134274,7 +134274,7 @@
     "user_summary_de": "Es wird selten verwendet, stammt aus dem Hocharabischen und wird in formellen Kontexten genutzt.",
     "user_summary_en": "It is rarely used, comes from Standard Arabic and is used in formal contexts.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": false,
     "validation": {
       "reason": "The word 'stachar' is not commonly used in Darija.",
@@ -134856,7 +134856,7 @@
     "user_summary_de": "Es wird selten verwendet, stammt aus dem Hocharabischen und wird in formellen Kontexten genutzt.",
     "user_summary_en": "It is rarely used, comes from Standard Arabic and is used in formal contexts.",
     "category_confidence": 0.8,
-    "category": "objects_tools",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Commonly used noun in business and trade contexts.",
@@ -135645,7 +135645,7 @@
     "user_summary_de": "Es wird gelegentlich in wirtschaftlichen Gesprächen genutzt und ist bekannt.",
     "user_summary_en": "It is occasionally used in economic discussions and is known.",
     "category_confidence": 0.9,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Commonly used in economic contexts.",
@@ -135681,7 +135681,7 @@
     "user_summary_de": "Es wird gelegentlich in politischen Diskussionen verwendet und ist bekannt.",
     "user_summary_en": "It is occasionally used in political discussions and is known.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Relevant in political and professional contexts.",
@@ -135768,7 +135768,7 @@
     "user_summary_de": "Es wird vor allem in formellen Reden verwendet und ist im Alltag weniger wichtig.",
     "user_summary_en": "It is mainly used in formal speeches and is less relevant in daily life.",
     "category_confidence": 0.9,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Commonly used in socio-political contexts.",
@@ -136044,7 +136044,7 @@
     "user_summary_de": "Es wird gelegentlich in wirtschaftlichen Gesprächen verwendet und ist bekannt.",
     "user_summary_en": "It is occasionally used in economic discussions and is known.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Relevant for economic discussions.",
@@ -140648,7 +140648,7 @@
     "user_summary_de": "Es wird gelegentlich in Gesprächen über Ruhestand verwendet.",
     "user_summary_en": "It is occasionally used in conversations about retirement.",
     "category_confidence": 0.8,
-    "category": "people_professions",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Relevant for social and economic contexts.",
@@ -141387,7 +141387,7 @@
     "user_summary_de": "Es wird vor allem in wirtschaftlichen Kontexten verwendet und stammt aus dem Hocharabischen.",
     "user_summary_en": "It is mainly used in economic contexts and comes from Standard Arabic.",
     "category_confidence": 0.9,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Important noun in economic discussions.",
@@ -141878,7 +141878,7 @@
     "user_summary_de": "Es wird häufig beim Einkaufen benutzt.",
     "user_summary_en": "It is commonly used when shopping.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Common term for price.",
@@ -142066,7 +142066,7 @@
     "user_summary_de": "Es wird selten verwendet, stammt aus dem Hocharabischen und ist in formellen Kontexten zu finden.",
     "user_summary_en": "It is rarely used, comes from Standard Arabic and is found in formal contexts.",
     "category_confidence": 0.9,
-    "category": "abstract_concepts",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Essential term in health and biology contexts.",
@@ -142116,7 +142116,7 @@
     "user_summary_de": "Es wird häufig in alltäglichen Gesprächen genutzt und ist ein wichtiges Wort.",
     "user_summary_en": "It is frequently used in everyday conversations and is an important word.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": false,
     "validation": {
       "reason": "Less common variant of 'tani'.",
@@ -146215,7 +146215,7 @@
     "user_summary_de": "Es wird gelegentlich in Planungsdiskussionen verwendet.",
     "user_summary_en": "It is occasionally used in planning discussions.",
     "category_confidence": 0.9,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Important noun used in planning contexts.",
@@ -146524,7 +146524,7 @@
     "user_summary_de": "Es wird selten verwendet, stammt aus dem Hocharabischen und wird in formellen Kontexten genutzt.",
     "user_summary_en": "It is rarely used, comes from Standard Arabic and is used in formal contexts.",
     "category_confidence": 0.7,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Relevant noun for everyday use, especially in logistics.",
@@ -146899,7 +146899,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Basic vocabulary for days of the week.",
@@ -147715,7 +147715,7 @@
     "user_summary_de": "Es wird selten verwendet, stammt aus dem Hocharabischen und ist in formellen Kontexten relevant.",
     "user_summary_en": "It is rarely used, comes from Standard Arabic and is relevant in formal contexts.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Relevant noun in financial contexts.",
@@ -148166,7 +148166,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Common noun for days of the week.",
@@ -149441,7 +149441,7 @@
     "user_summary_de": "Es wird gelegentlich in finanziellen Kontexten verwendet.",
     "user_summary_en": "It is occasionally used in financial contexts.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Relevant noun for financial contexts.",
@@ -150481,7 +150481,7 @@
     "user_summary_de": "Es wird gelegentlich in Gesprächen über finanzielle Themen verwendet.",
     "user_summary_en": "It is occasionally used in conversations about financial topics.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Common noun in economic and social contexts.",
@@ -150771,7 +150771,7 @@
     "user_summary_de": "Es wird häufig im Handel genutzt und ist ein wichtiges Wort für den Alltag.",
     "user_summary_en": "It is frequently used in commerce and is an important word for daily life.",
     "category_confidence": 0.9,
-    "category": "abstract_concepts",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Important noun in economic contexts.",
@@ -153759,7 +153759,7 @@
     "user_summary_de": "Es wird oft in Gesprächen über Körperkunst verwendet.",
     "user_summary_en": "It is often used in discussions about body art.",
     "category_confidence": 0.8,
-    "category": "culture_leisure",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Common noun in modern culture and art.",
@@ -153796,7 +153796,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.8,
-    "category": "people_professions",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Basic noun referring to a body part, widely used.",
@@ -153885,7 +153885,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.9,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Commonly used noun for time.",
@@ -153991,7 +153991,7 @@
     "user_summary_de": "Es wird gelegentlich in Gesprächen über vergangene Ereignisse genutzt.",
     "user_summary_en": "It is occasionally used in conversations about past events.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Specific term for a common concept.",
@@ -154284,7 +154284,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.9,
-    "category": "culture_leisure",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Commonly used noun for leisure time.",
@@ -154419,7 +154419,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.8,
-    "category": "people_professions",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Basic noun for face, widely used.",
@@ -155322,7 +155322,7 @@
     "user_summary_de": "Es wird gelegentlich in abstrakten Konzepten verwendet.",
     "user_summary_en": "It is occasionally used in abstract concepts.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Specific noun for time reference.",
@@ -155608,7 +155608,7 @@
     "user_summary_de": "Es wird häufig in Gesprächen über Zeit und Kalender verwendet.",
     "user_summary_en": "It is frequently used in conversations about time and calendars.",
     "category_confidence": 0.8,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Commonly used noun for a month.",
@@ -155694,7 +155694,7 @@
     "user_summary_de": "Es wird sehr häufig in Gesprächen genutzt und ist essentiell im Alltag.",
     "user_summary_en": "It is very frequently used in conversations and is essential in daily life.",
     "category_confidence": 0.9,
-    "category": "objects_tools",
+    "category": "humanbody",
     "include": true,
     "validation": {
       "reason": "Basic noun for a body part.",
@@ -155729,7 +155729,7 @@
     "user_summary_de": "Es wird selten verwendet, stammt aus dem Hocharabischen und in formellen Kontexten genutzt.",
     "user_summary_en": "It is rarely used, comes from Standard Arabic and is used in formal contexts.",
     "category_confidence": 0.7,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Commonly used noun for a month.",
@@ -155763,7 +155763,7 @@
     "user_summary_de": "Es wird selten verwendet, stammt aus dem Hocharabischen und in formellen Kontexten genutzt.",
     "user_summary_en": "It is rarely used, comes from Standard Arabic and is used in formal contexts.",
     "category_confidence": 0.7,
-    "category": "abstract_concepts",
+    "category": "time",
     "include": true,
     "validation": {
       "reason": "Commonly used noun for a month.",
@@ -157084,7 +157084,7 @@
     "user_summary_de": "Es wird oft in landwirtschaftlichen Kontexten verwendet.",
     "user_summary_en": "It is often used in agricultural contexts.",
     "category_confidence": 0.8,
-    "category": "places_environment",
+    "category": "economy",
     "include": true,
     "validation": {
       "reason": "Important noun for agriculture.",

@@ -145,7 +145,7 @@
           "type": "string",
           "enum": ["A1", "A2", "B1", "B2", "C1", "C2"]
         },
-        
+
         "frequency_score": { "type": "integer" },
         "is_daily_darija": { "type": "boolean", "default": false },
         "is_standard_arabic": { "type": "boolean", "default": false },
@@ -177,7 +177,10 @@
                   "other",
                   "people_professions",
                   "places_environment",
-                  "religion_belief"
+                  "religion_belief",
+                  "economy",
+                  "humanbody",
+                  "time"
                 ]
               }
             }

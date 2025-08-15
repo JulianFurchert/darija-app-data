@@ -1,0 +1,200 @@
+id,darija_ar,darija_latin,en,de,old_category,new_category,match_basis
+13c889474ce5,عضم,3Dam | 3Dm,bone,Knochen,animals_plants,humanbody,darija_ar
+4784c5318109,عضلة,3aDala,muscle,Muskel,abstract_concepts,humanbody,darija_ar
+23276625e95c,عام,3am,year,Jahr,abstract_concepts,time,darija_ar
+3cd5606537fc,عمل,3amal,work,Arbeit,abstract_concepts,economy,darija_ar
+d8fa000b84c3,عمود لفقري,3amoud lfi9ari | 3amoud fi9ari | 3amod fi9ari,backbone,Rückgrat,abstract_concepts,humanbody,darija_ar
+6fead7c56109,عشية,3chia | aachia,evening | afternoon,Abend | Nachmittag,abstract_concepts,time,darija_ar
+fea2c3d33908,عجز,3ejz | 3ajz,deficit,Defizit,abstract_concepts,economy,darija_ar
+060df2e495d1,عرق,3er9 | 3r9 | 3ar9,vein,Ader,people_professions,humanbody,darija_ar
+38beeeb8d2af,عين,3in | 3ayn,eye,Auge,objects_tools,humanbody,darija_ar
+a87c7b5f1838,عنڭ,3ng | 3ong,neck,Hals,people_professions,humanbody,latin
+6abed34b75c7,عضو,3oDw,organ | member,Organ | Mitglied,people_professions,humanbody,darija_ar
+d82dc6f0297c,عملة,3omla,currency,Währung,abstract_concepts,economy,darija_ar
+dad7912bb91b,عنق,3on9 | 3n9,neck,Hals,people_professions,humanbody,darija_ar
+96f59cc5153c,حاضر,7aDir,present,Geschenk,abstract_concepts,time,darija_ar
+753228fb3046,حاجب,7ajb | hajb,eyebrow,Augenbraue,people_professions,humanbody,darija_ar
+916f8307232a,حانوت,7anout,shop,Laden,places_environment,economy,darija_ar
+c747071da26b,حلاقم,7la9em | 7la9m | hlaqem,tonsils,Mandeln,objects_tools,humanbody,darija_ar
+775f6d926320,حنك,7nk | 7ank | 7enk,cheek,Wange,people_professions,humanbody,darija_ar
+311879e2f45a,حسانة,7sana | hsana,haircut,Haarschnitt,culture_leisure,humanbody,darija_ar
+b7374afe0fef,حتكار,7tikar | htikar,monopoly,Monopol,abstract_concepts,economy,darija_ar
+038d260aa2a1,قلب,9alb | 9elb,heart,Herz,abstract_concepts,humanbody,darija_ar
+c6f33cdd89ce,قرض,9arD | 9rD | 9erD,loan,Darlehen,abstract_concepts,economy,darija_ar
+3861716975e0,قرن,9arn | 9ern,century,Jahrhundert,abstract_concepts,time,darija_ar
+188d2f61e7e4,قرد,9rd | 9ard | qard | 9erd,monkey,Affe,animals_plants,economy,latin
+221ce3d395d9,قتصاد,9tiSad,economy,Wirtschaft,abstract_concepts,economy,darija_ar
+940cae1eed15,ضريبة,Dariba,tax,Steuer,abstract_concepts,economy,darija_ar
+1a6f1dd42bf3,ضفر,Dfr | Dfer,fingernail,Fingernagel,objects_tools,humanbody,darija_ar
+4d5df8905f16,ضهر,Dhar | D8r | D8ar | D8er,back,Rücken,people_professions,humanbody,darija_ar
+b2fb5e433106,ضلعة,Dl3a | Dal3a | Del3a,rib,Rippe,animals_plants,humanbody,darija_ar
+5d8781c051f5,ضهر,Dohr | Do8r | Doher | Do8ar,noon prayer,Mittagsgebet,religion_belief,humanbody,darija_ar
+abf6723335a8,الصيد,SSayd | SSeyd,fishing,Angeln,culture_leisure,economy,darija_ar
+6c524a35c4a3,صبع,Sb3 | Sbe3,finger,Finger,objects_tools,humanbody,darija_ar
+b649956b20c9,صدر,Sdar | Sdr | Sader | Sedar,export | chest,Export | Brust,abstract_concepts,economy,darija_ar
+8afc76006c3e,سيمانة,Simana | simana,week,Woche,abstract_concepts,time,darija_ar
+95a8dd489aa4,صناعة,Sina3a,industry,Industrie,abstract_concepts,economy,darija_ar
+b0e13c3f8895,طلب,Talab,request | application,Anfrage | Antrag,abstract_concepts,economy,darija_ar
+9cfe3fc80660,طلاب,Talab,demand,Nachfrage,abstract_concepts,economy,darija_ar
+4cd8ac7a2cdb,أسهم,ashom,shares,Aktien,abstract_concepts,economy,darija_ar
+13c1487ad1ec,أبريل,avril | abril,april,April,abstract_concepts,time,darija_ar
+576cc1122b51,بعد غدّا,ba3d ghdda | b3d ghdda | be3d ghdda,the day after tomorrow,Übermorgen,abstract_concepts,time,darija_ar
+7b3e310940ab,باط,baT,armpit,Achselhöhle,people_professions,humanbody,darija_ar
+395bcb787667,بنكة,banka,bank,Bank,places_environment,economy,latin
+b6d910b0f6fe,بيّاع,beya3 | byya3 | beyya3 | bya3,seller,Verkäufer,people_professions,economy,darija_ar
+0f50064bdb7a,بيزنيس,biznis,business,Geschäft,abstract_concepts,economy,darija_ar
+78742e2610dd,بلان,blan | blane,plan,Plan,abstract_concepts,economy,darija_ar
+b69da60f4059,بنادم,bnadem | bnadm,human,Mensch,people_professions,humanbody,darija_ar
+bb738cbc7fab,بورصا,bourSa | borSa,stock exchange,Börse,places_environment,economy,darija_ar
+ac837875649f,برنامج,brnamaj | barnamaj,program | software | show,Programm | Software | Show,culture_leisure,economy,darija_ar
+4e03fc285ebe,بزناس,bznas | beznas,drug dealer,Drogendealer,people_professions,economy,darija_ar
+fb6502cb59e9,شعر,ch3er | ch3ar,poetry | hair,Dichtung | Haar,abstract_concepts,humanbody,darija_ar
+9a1d8f1e1c9e,شهر,ch8er,month,Monat,abstract_concepts,time,darija_ar
+ab22df148707,شهرية,chahria | ch8ria | cha8ria | chehria,salary,Gehalt,people_professions,economy,darija_ar
+419e2317867c,شركة,charika,company | firm,Unternehmen | Firma,places_environment,economy,darija_ar
+9e66ba06c87f,الشمّ,chchmm | chchemm | chchamm,smell,Geruch,abstract_concepts,humanbody,darija_ar
+bfec8701d3e7,الشوف,chchouf,sight,Sicht,abstract_concepts,humanbody,darija_ar
+466097efca49,الشرا,chchra,bying,Kauf,abstract_concepts,economy,darija_ar
+4fb0c7050749,شفار,chfar,eyelashes,Wimpern,animals_plants,humanbody,darija_ar
+520903ddb6f8,شفار,chffar | cheffar,thief,Dieb,people_professions,humanbody,darija_ar
+f885ade82047,شتنبر,chotanbir,september,September,abstract_concepts,time,darija_ar
+49466a2ed5ed,شرّاي,chray | chrray,buyer,Käufer,people_professions,economy,darija_ar
+f38fa360a117,دقيقة,d9i9a | daqiqa | da9i9a,minute,Minute,abstract_concepts,time,darija_ar
+e7ce66ed51a1,دعم,da3m,support,Unterstützung,abstract_concepts,economy,darija_ar
+8716eb9affaa,دابا,daba | drok,now,jetzt,abstract_concepts,time,darija_ar
+bd0142679cd0,دفال,ddfal | dfal,saliva,Speichel,abstract_concepts,humanbody,darija_ar
+5cfc9036d01f,الدوق,ddou9,taste,Geschmack,abstract_concepts,humanbody,darija_ar
+01e306f1256d,دم,dem | dmm | dm,blood,Blut,abstract_concepts,humanbody,darija_ar
+d0aaff2f7e4c,دماغ,dmagh,brain,Gehirn,abstract_concepts,humanbody,darija_ar
+afddbde3cbba,دجنبر,dojanbir | doujanbir,december,Dezember,abstract_concepts,time,darija_ar
+9cbb8d0e422e,درهم,dr8m | drhm | der8am | dirham,dirham,Dirham,abstract_concepts,economy,darija_ar
+a20ea0ba8b47,دراع,dra3,arm,Arm,people_professions,humanbody,darija_ar
+be284f27e5f1,فاكتورة,factoura,bill,Rechnung,objects_tools,economy,darija_ar
+597c2f683cc7,فترة,fatra | ftra | fetra,period,Periode,abstract_concepts,time,darija_ar
+bfebdaac785b,فاييت,fayit | fayyit,bankruptcy,Insolvenz,abstract_concepts,economy,darija_ar
+2b93a3e4bc3d,فبراير,fibrayer | fibrayr,february,Februar,abstract_concepts,time,darija_ar
+e6c7887885ff,فخض,fkheD | fkhD,thigh,Oberschenkel,people_professions,humanbody,darija_ar
+6a325d21ebcd,فلوس,flouss | flous | flos,money,Geld,abstract_concepts,economy,darija_ar
+3e97c4cf4f94,فم,fom | fmm | fm,mouth,Mund,people_professions,humanbody,darija_ar
+757595ff1b25,ڭدم,gdem | gdm,heel,Ferse,objects_tools,humanbody,darija_ar
+b233636a76ff,غدا,ghda | ghdda | gheda | ghada,lunch | tomorrow,Mittagessen | morgen,food_drink,time,latin
+01cf07ead902,غدّا,ghdda | ghedda | ghadda,tomorrow,morgen,abstract_concepts,time,darija_ar
+df2bd437580a,غشت,ghocht,august,August,abstract_concepts,time,darija_ar
+5e6e0dd4e806,حتياط,i7tiaT | 7tiyaT | ihtiaT,reserve,Reservat,abstract_concepts,economy,darija_ar
+6d3840a004ef,إصلاح,iSla7,reform,Reform,abstract_concepts,economy,darija_ar
+ba42df20d0d2,إفلاس,iflas,bankruptcy,Insolvenz,abstract_concepts,economy,darija_ar
+2c2ef2139aff,إنسان,insan,human,Mensch,people_professions,humanbody,darija_ar
+437f72bc0a16,اتحاد,itti7ad,union,Vereinigung,abstract_concepts,economy,darija_ar
+8d6ca0d8f327,جبهة,jbha | jb8a | jab8a | jeb8a,forehead,Stirn,people_professions,humanbody,darija_ar
+045c771ba930,جلد,jeld | jld | jild | jald,leather | skin,Leder | Haut,objects_tools,humanbody,darija_ar
+822e87e69a4d,جمعة,jem3a | jm3a | jam3a | jjm3a,friday,Freitag,religion_belief,time,darija_ar
+0a7051f6068e,جماعة,jma3a,group | crowd,Gruppe | Menschenmenge,people_professions,economy,darija_ar
+6ea42832b461,جمجمة,jmjoma | jomjoma | jmjouma,skull,Schädel,objects_tools,humanbody,darija_ar
+09fcd1eb88ce,كبدة,kebda | kbda,liver,Leber,food_drink,humanbody,darija_ar
+efade8ad6469,خال,khal,uncle (maternal),Onkel (mütterlicherseits),people_professions,humanbody,darija_ar
+efade8ad6469,خال,khala,aunt (maternal),Tante (mütterlicherseits),people_professions,humanbody,darija_ar
+f84c77fa1f3e,خدمة,khdma | khedma | khidma | khadma,job | work | business | service,Job | Arbeit | Geschäft | Dienst,people_professions,economy,darija_ar
+b046e5edc16a,كليان,kliyan | klian,client | customer,Kunde,people_professions,economy,darija_ar
+898427ed150c,كلوة,klwa | kalwa | kelwa,kidney,Niere,animals_plants,humanbody,darija_ar
+238ef657c591,كرا,kra,rent,Miete,abstract_concepts,economy,darija_ar
+3c655939941a,كرش,krch | kerch | karch,abdomen,Bauch,abstract_concepts,humanbody,darija_ar
+ba8bd70a8ffc,كريدي,kridi,credit | loan,Kredit | Darlehen,abstract_concepts,economy,darija_ar
+44834ff9eed6,كريز,kriz | criz,crisis,Krise,abstract_concepts,economy,darija_ar
+795df90668bb,كتف,ktf,shoulder,Schulter,objects_tools,humanbody,darija_ar
+170ce4348f5d,اللعاقة,l3a9a | ll3a9a | ll3aqa,money,Geld,abstract_concepts,economy,darija_ar
+b96dc947ea81,لحد,l7d | l7ed | l7add | l7edd,sunday,Sonntag,culture_leisure,time,darija_ar
+7b7dcc85f5d2,لحلاقم,l7la9em | l7la9m | 7la9m | 7la9em,tonsils,Mandeln,other,humanbody,latin
+0782ea912bbe,لحية,l7ya | le7ya | la7ya,beard,Bart,people_professions,humanbody,darija_ar
+1afe87e43878,لقطاع لعامّ,l9iTa3 l3amm,public sector,Öffentlicher Dienst,people_professions,economy,darija_ar
+a2ad503c3596,لقطاع لخاص,l9iTa3 lkhaS,private sector,Privatsektor,people_professions,economy,darija_ar
+22b72c6cb62b,لاربع,larb3 | larba3 | larbe3,wednesday,Mittwoch,abstract_concepts,time,darija_ar
+9557b9f749c5,لاسورانس,lasorans | lassourans | lasourans,insurance,Versicherung,abstract_concepts,economy,darija_ar
+890821a06f10,لبارح,lbare7 | lbar7 | lbareh,yesterday,gestern,abstract_concepts,time,darija_ar
+20141df517b7,لبيع,lbi3,selling,Verkauf,abstract_concepts,economy,darija_ar
+1f50e3fddf10,الفائدة,lfayda | lfa2ida,interest,Interesse,abstract_concepts,economy,darija_ar
+90695a3a34a0,ليل,lil,night,Nacht,abstract_concepts,time,darija_ar
+ac5b2c8eedcb,لخميس,lkhmis | l5miss | lakhmis | lekhmis,thursday,Donnerstag,culture_leisure,time,darija_ar
+0e5a33b0186d,اللمس,llms | llems | llams,touch,Berührung,abstract_concepts,humanbody,darija_ar
+17e5a1dc9bca,لمعيشة,lma3icha,cost of living,Lebenshaltungskosten,abstract_concepts,economy,darija_ar
+f453a43beed6,لسان,lsan | lisan | lissan,tongue,Zunge,animals_plants,humanbody,darija_ar
+3308d36fdacf,الورث,lwert | lwart | lwrt,inheritance,Erbschaft,abstract_concepts,economy,darija_ar
+ffc5365ac75f,ليوم,lyom | lioma | liom,today,heute,abstract_concepts,time,darija_ar
+c9394032155d,مصارن,mSarn | mSaren | mSaran,intestine,Darm,food_drink,humanbody,darija_ar
+cf54a9ced103,ماحال,ma7al,shop,Laden,places_environment,economy,darija_ar
+5d0892f7317e,محل,ma7al | ma7all,shop | store,Laden,places_environment,economy,latin
+5b6b95b89772,ماضي,maDi,past,Vergangenheit,abstract_concepts,time,darija_ar
+d409195ceab1,مبلغ,mablagh | mblagh | meblegh | mblegh,amount,Betrag,abstract_concepts,economy,darija_ar
+9f7186052938,ماڭانة,magana | sa3a,clock,Uhr,objects_tools,time,darija_ar
+33ceeeedd23c,مارس,mars,march,März,abstract_concepts,time,darija_ar
+1a7f8c753bdd,ماي,may,may,Mai,abstract_concepts,time,darija_ar
+018e3c262fd6,مشروع,mchro3 | mchrou3 | mechrou3,project,Projekt,abstract_concepts,economy,darija_ar
+12ac4c80aa79,مدخول,mdkhol | mdkhoul | medkhoul | mad5oul,income | revenue,Einkommen | Einnahmen,abstract_concepts,economy,darija_ar
+03c81aa69300,معدة,me3da | m3da | ma3da,stomach,Magen,abstract_concepts,humanbody,darija_ar
+693a0b7f3077,مناخر,menkher | mnakher | mnkhr | men5ar,nose,Nase,people_professions,humanbody,darija_ar
+eaf459fb1da4,ميزانية,mizania,budget,Haushalt,abstract_concepts,economy,darija_ar
+1bf3de0e084c,منتوج,mntouj | mantouj | mantoj,product,Produkt,objects_tools,economy,darija_ar
+ba0a2d2b1a8c,مقاولة,mo9awala | moqawala,enterprise,Unternehmen,people_professions,economy,darija_ar
+ee34908866fd,مناسبة,monasaba | mounasaba | monaasaba,occasion,Anlass,abstract_concepts,time,darija_ar
+bb5b6c3d6681,مستقبل,mosta9bal | most9bal,future,Zukunft,abstract_concepts,time,darija_ar
+7e00a00198a4,موسطاش,mostach,mustache,Schnurrbart,people_professions,humanbody,darija_ar
+7e4c2d8197b2,مرفق,mrf9 | mrfg | marfa9 | merfeg,elbow,Ellenbogen,objects_tools,humanbody,darija_ar
+c80d0e5113b6,يوم,youm,day,Tag,abstract_concepts,time,darija_ar
+71344d07cf4a,نهار,nhar,day,Tag,abstract_concepts,time,latin
+ae97fdf54637,نيف,nif,nose,Nase,people_professions,humanbody,darija_ar
+4d6355ade9b3,نونبر,nowanbir,november,November,culture_leisure,time,darija_ar
+57e8f9a9a3c4,أكتوبر,oktobr | oktoubr,october,Oktober,abstract_concepts,time,darija_ar
+e8589a5a9caa,پرودوي,produit,product,Produkt,objects_tools,economy,darija_ar
+65c3a80b6f79,راس,race,race,Rasse,abstract_concepts,humanbody,darija_ar
+8342dc229451,راسلمال,ras lmal | raslmal,capital,Kapital,abstract_concepts,economy,darija_ar
+5addda80d7d8,راس,rass,head,Kopf,people_professions,humanbody,darija_ar
+a9354e087b6e,ربع,rbe3 | rb3,quarter,Viertel,abstract_concepts,economy,darija_ar
+472dd97976af,رية,riya | riyya | ria | rya,lung,Lunge,animals_plants,humanbody,darija_ar
+29830e0428dc,رجل,rjel | rjl,foot | leg,Fuß | Bein,objects_tools,humanbody,darija_ar
+c27795dfd69b,ركبة,rkba | rokba,knee,Knie,people_professions,humanbody,darija_ar
+d0f4486f178c,رموش,rmouch,eyelashes,Wimpern,abstract_concepts,humanbody,darija_ar
+bdd9861cc730,الربح,rrba7 | rrb7,profit,Gewinn,abstract_concepts,economy,darija_ar
+0f654a8c3587,ساعة,sa3a,hour,Stunde,abstract_concepts,time,darija_ar
+817cdedf1069,سائح,sai7 | sa2i7 | saih | ra2ih,tourist,Tourist,people_professions,economy,darija_ar
+70e6f8e9fda5,سلف,salaf,loan,Darlehen,abstract_concepts,economy,darija_ar
+aac09b67c6d6,سندات,sanadat,bonds,Anleihen,abstract_concepts,economy,darija_ar
+85281a12c358,سبع,sb3 | sbe3 | sbaa | sba3,lion,Löwe,animals_plants,humanbody,latin
+c005d99af5cd,صباح,sba7,morning,Morgen,abstract_concepts,time,darija_ar
+ece6fe1c6ece,سبت,sbt | ssbt | sabt | ssebt,saturday,Samstag,abstract_concepts,time,darija_ar
+4ae73f0dd03e,سلعة,sel3a | sl3a,products | goods,Produkte | Waren,objects_tools,economy,darija_ar
+86bf307db3a3,سربيس,serbiss,service,Dienst,abstract_concepts,economy,darija_ar
+3154354b0c95,سياحة,siya7a,tourism,Tourismus,culture_leisure,economy,darija_ar
+b746be87b785,سنّة,snna | senna,tooth,Zahn,people_professions,humanbody,darija_ar
+123d3e891e98,سوق,sou9 | souk | souq,market,Markt,places_environment,economy,darija_ar
+588b771c2d7d,سيولة,soyoula | soyola | souyoula,liquidity,Liquidität,abstract_concepts,economy,darija_ar
+15c4cb7a10d9,السمع,ssam3 | ssm3 | ssem3,hearing,Hearing,abstract_concepts,humanbody,darija_ar
+f535757b4eff,ستاشر,stachar | stachr | istachar,consult,Beratung,abstract_concepts,economy,darija_ar
+22638973c772,ستورد,stawred | stewred | stawrd | stwrd,import,Import,objects_tools,economy,darija_ar
+649f9a7e676d,ستهلاك,sti8lak | stihlak | istihlak | isti8lak,consumption,Konsum,abstract_concepts,economy,darija_ar
+e69344fd3745,استقالة,sti9ala | isti9ala | sti9aala,resignation,Rücktritt,abstract_concepts,economy,darija_ar
+8e1dd325acbd,ستقرار,sti9rar | isti9rar | stiqrar,stability,Stabilität,abstract_concepts,economy,darija_ar
+79aa7cf085c6,استثمار,stitmar,investment,Investition,abstract_concepts,economy,darija_ar
+7a6f84811521,تقاعد,ta9a3od,retirement | pension,Rente | Pension,people_professions,economy,darija_ar
+e2f7b1141a62,تضخم,tadakhom,inflation,Inflation,abstract_concepts,economy,darija_ar
+8b993e449264,تمن,taman,price | cost,Preis | Kosten,abstract_concepts,economy,latin
+5ac01424e237,تنفّس,tanffos | tanaffos,breathing,Atmung,abstract_concepts,humanbody,darija_ar
+6dadafe26c29,تانية,tania,second,Sekunde,abstract_concepts,time,darija_ar
+2058e39ca966,تخطيط,tkhTiT | takhTiT | tekhTiT | ta5TiT,planning,Planung,abstract_concepts,economy,darija_ar
+db56916712f0,تخزين,tkhzin | takhzin | tekhzine,storage,Lagerung,abstract_concepts,economy,darija_ar
+4c17429ab463,تلات,tlat | ttlat,tuesday,Dienstag,abstract_concepts,time,darija_ar
+83b1107946fd,تمويل,tmwil | tamwil | tmouil | temwil,funding,Finanzierung,abstract_concepts,economy,darija_ar
+15b1c338fc1e,تنين,tnin | ttnin,monday,Montag,abstract_concepts,time,darija_ar
+8a0181c59c73,تسبيق,tsbi9 | tesbi9 | tasbi9,deposit,Einlage,abstract_concepts,economy,darija_ar
+5cb78ce0b701,التروة,ttarwa | tterwa | ttrwa,wealth,Reichtum,abstract_concepts,economy,darija_ar
+9ec44edcf383,تجارة,ttijara | tijara,commerce,Handel,abstract_concepts,economy,darija_ar
+f7f1f0a44544,وشم,wchm | wchem | wcham | ouchm,tattoo,Tattoo,culture_leisure,humanbody,darija_ar
+4244ab649bfa,ودن,wden | wdn | oden | wdan,ear,Ohr,people_professions,humanbody,darija_ar
+cc982f0d5db5,وقت,we9t | wa9t | w9t,time,Zeit,abstract_concepts,time,darija_ar
+aeae4af96ea3,ولّبارح,wellbar7 | wallbare7 | wllbare7,the day before yesterday,vorgestern,abstract_concepts,time,darija_ar
+c830b287bea3,ويكاند,wikand,weekend,Wochenende,culture_leisure,time,darija_ar
+a6170f87fa05,وجه,wjh,face,Gesicht,people_professions,humanbody,darija_ar
+b298e399fbdc,وسط نهار,wst nhar | wstnhar,midday,Mittag,abstract_concepts,time,darija_ar
+34d93be28248,يناير,yanayr | yanayir,january,Januar,abstract_concepts,time,darija_ar
+29c6355893f3,يد,yed,hand,Hand,objects_tools,humanbody,latin
+5f66502f641f,يوليوز,yolyoz | youlyouz,july,Juli,abstract_concepts,time,darija_ar
+ee4a18262646,يونيو,yonyo,june,Juni,abstract_concepts,time,darija_ar
+608229743692,زراعة,zira3a,agriculture,Landwirtschaft,places_environment,economy,darija_ar
