@@ -75,7 +75,6 @@
         "ntoma": { "type": "string", "description": "2nd person plural" },
         "homa":  { "type": "string", "description": "3rd person plural" }
       },
-      "minProperties": 1,
       "description": "Conjugated verb forms for different pronouns"
     },
 
