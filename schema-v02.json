@@ -1,0 +1,195 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://example.com/darija-dictionary-mini.schema.json",
+  "title": "Darija Dictionary (Minimal Schema)",
+  "type": "array",
+  "items": { "$ref": "#/definitions/DictionaryEntry" },
+
+  "definitions": {
+    "Gender": {
+      "type": ["string", "null"],
+      "enum": ["masculine", "feminine", null],
+      "description": "Grammatical gender of a noun (if applicable)"
+    },
+
+    "GrammaticalNumber": {
+      "type": ["string", "null"],
+      "enum": ["singular", "plural", null],
+      "description": "Grammatical number of a noun (if applicable)"
+    },
+
+    "WordClass": {
+      "type": "string",
+      "enum": [
+        "noun",
+        "verb",
+        "adjective",
+        "adverb",
+        "preposition",
+        "pronoun",
+        "number",
+        "ordinal_number",
+        "fraction",
+        "conjunction",
+        "phrase",
+        "expression",
+        "interjection"
+      ],
+      "description": "Grammatical word class"
+    },
+
+    "FrequencyLevel": {
+      "type": ["string", "null"],
+      "enum": ["basic", "everyday", "extended", null],
+      "description": "Indicates how common/essential the word is in everyday Darija usage"
+    },
+
+    "FormalityLevel": {
+      "type": ["string", "null"],
+      "enum": ["formal", "neutral", "informal", null],
+      "description": "Indicates the register of the word or expression in Darija (formal, neutral, informal)"
+    },
+
+    "WordForm": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "word": { "type": "string", "minLength": 1, "description": "Word form in Arabizi" },
+        "gender": { "$ref": "#/definitions/Gender" },
+        "number": { "$ref": "#/definitions/GrammaticalNumber" }
+      },
+      "required": ["word", "gender", "number"],
+      "description": "Word form for nouns (e.g., singular/plural with gender)"
+    },
+
+    "ConjugationSet": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "ana":   { "type": "string", "description": "1st person singular" },
+        "nta":   { "type": "string", "description": "2nd person singular masculine" },
+        "nti":   { "type": "string", "description": "2nd person singular feminine" },
+        "howa":  { "type": "string", "description": "3rd person singular masculine" },
+        "hia":   { "type": "string", "description": "3rd person singular feminine" },
+        "7na":   { "type": "string", "description": "1st person plural" },
+        "ntoma": { "type": "string", "description": "2nd person plural" },
+        "homa":  { "type": "string", "description": "3rd person plural" }
+      },
+      "minProperties": 1,
+      "description": "Conjugated verb forms for different pronouns"
+    },
+
+    "Topics": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "basic_needs.greetings",
+          "basic_needs.food_drink",
+          "basic_needs.shopping_money",
+          "basic_needs.time_numbers",
+          "basic_needs.colours",
+          "basic_needs.weather",
+          "basic_needs.nature",
+
+          "people.family_relationships",
+          "people.body_health",
+          "people.clothes_fashion",
+          "people.personal_qualities",
+          "people.physical_appearance",
+
+          "daily_life.home_buildings",
+          "daily_life.travel_transport",
+          "daily_life.work_school",
+          "daily_life.leisure_sport",
+          "daily_life.animals",
+
+          "emotions.feelings_emotions",
+
+          "culture.religion",
+          "culture.traditions",
+          "culture.arts_media",
+
+          "extra_advanced.politics_society",
+          "extra_advanced.science_technology",
+          "extra_advanced.environment",
+          "extra_advanced.business_economy",
+          "extra_advanced.other"
+        ]
+      },
+      "uniqueItems": true,
+      "description": "Semantic categories for grouping vocabulary entries"
+    },
+
+    "DictionaryEntry": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string", "minLength": 1, "description": "Unique identifier for the entry" },
+
+        "darija": { 
+          "type": "string", 
+          "minLength": 1,
+          "description": "Main Darija form written in Arabizi (Latin letters + numbers, e.g., 7, 3, 9)"
+        },
+        "darija_alt": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 },
+          "uniqueItems": true,
+          "description": "Alternative Arabizi spellings of the word"
+        },
+        "darija_arabic_script": { "type": "string", "description": "Darija word in Arabic script" },
+
+        "en": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 },
+          "minItems": 1,
+          "uniqueItems": true,
+          "description": "English translations"
+        },
+        "de": {
+          "type": "array",
+          "items": { "type": "string", "minLength": 1 },
+          "minItems": 1,
+          "uniqueItems": true,
+          "description": "German translations"
+        },
+
+        "class": { "$ref": "#/definitions/WordClass" },
+        "gender": { "$ref": "#/definitions/Gender" },
+        "number": { "$ref": "#/definitions/GrammaticalNumber" },
+
+        "frequency_level": { "$ref": "#/definitions/FrequencyLevel" },
+        "formality_level": { "$ref": "#/definitions/FormalityLevel" },
+
+        "topics": { "$ref": "#/definitions/Topics" },
+
+        "conjugations": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "present": { "$ref": "#/definitions/ConjugationSet" },
+            "past":    { "$ref": "#/definitions/ConjugationSet" },
+            "future":  { "$ref": "#/definitions/ConjugationSet" }
+          },
+          "description": "Conjugations for verbs (if applicable)"
+        },
+
+        "wordForms": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/WordForm" },
+          "description": "Noun word forms (singular/plural with gender)"
+        },
+
+        "user_summary_de": { "type": "string", "description": "Learner-friendly summary in German" },
+        "user_summary_en": { "type": "string", "description": "Learner-friendly summary in English" },
+
+        "reviewed": { "type": "boolean", "default": false, "description": "Has this entry been reviewed by a human?" },
+        "include": { "type": "boolean", "default": true, "description": "If false, exclude entry from export/use" },
+        "validation": { "type": "object", "description": "Optional technical validation details" },
+        "note": { "type": "string", "description": "Editorial notes or remarks" }
+      },
+      "required": ["id", "darija", "en", "de", "class"]
+    }
+  }
+}

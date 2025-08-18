@@ -1,10 +1,14 @@
 {
   "json.schemas": [
     {
-      "fileMatch": ["dataset*.json"],
+      "fileMatch": ["dataset-v01*.json"],
       "url": "./schema.json"
+    },
+    {
+      "fileMatch": ["dataset-v02*.json"],
+      "url": "./schema-v02.json"
     }
-  ],
+  ],  
   "json.validationMode": "error",
   "editor.quickSuggestions": { "other": true, "comments": false, "strings": true }
 }
