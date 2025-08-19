@@ -16,41 +16,82 @@ OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 if not OPENAI_API_KEY:
     raise RuntimeError("OPENAI_API_KEY fehlt. Bitte in .env setzen oder als Umgebungsvariable exportieren.")
 
-MODEL = "gpt-4o-mini"   # für mehr Qualität: "gpt-4o"
+MODEL = "gpt-4o"   # für mehr Qualität: "gpt-4o"
 RATE_LIMIT_S = 0.7       # kleine Pause zwischen Calls
 
+TOPIC_DESCRIPTIONS = {
+    # 🟢 Basic Needs
+    "basic_needs.social_interactions": "greetings, farewells, politeness, simple questions",
+    "basic_needs.food_drink":          "food, drinks, eating, cooking",
+    "basic_needs.shopping_money":      "shopping, bargaining, prices, money",
+    "basic_needs.numbers":             "numbers, quantities, counting",
+    "basic_needs.time_date":           "weekdays, months, yesterday/tomorrow, clock time",
+    "basic_needs.colours":             "colors",
+    "basic_needs.weather":             "sun, rain, hot/cold",
+    "basic_needs.nature":              "sea, tree, mountain, river",
+
+    # 👥 People
+    "people.family_relationships":     "family, relatives, relationships",
+    "people.body_health":              "body parts, health, illness, doctor",
+    "people.clothes_fashion":          "clothing, accessories, fashion",
+    "people.personal_qualities":       "character, behavior, traits",
+    "people.physical_appearance":      "looks, size, hair, age",
+    "people.feelings_emotions":        "happy, sad, angry, tired",
+
+    # 🏠 Daily Life
+    "daily_life.home_buildings":       "house, rooms, furniture, objects",
+    "daily_life.travel_transport":     "bus, car, street, travel, directions",
+    "daily_life.work_school":          "jobs, professions, studying, education",
+    "daily_life.leisure_sport":        "hobbies, games, sports",
+    "daily_life.animals":              "domestic and wild animals",
+    "daily_life.media_entertainment":  "books, movies, music, TV",
+
+    # 📈 Extra Advanced
+    "extra_advanced.politics_society": "politics, society, law",
+    "extra_advanced.science_technology":"science, technology, computers",
+    "extra_advanced.environment":      "ecology, sustainability, environment",
+    "extra_advanced.business_economy": "economy, finance, business",
+    "extra_advanced.culture_art":      "art, literature, culture",
+    "extra_advanced.religion":         "religion, beliefs",
+    "extra_advanced.at_work":          "professional context, office, tasks, administration, formal work expressions",
+}
+
 # ---- Aktuelle Topics-Liste (AI-taugliche Codes) ----
-TOPICS_ENUM = [
-    "basic_needs.social_interactions",
-    "basic_needs.food_drink",
-    "basic_needs.shopping_money",
-    "basic_needs.numbers",
-    "basic_needs.time_date",
-    "basic_needs.colours",
-    "basic_needs.weather",
-    "basic_needs.nature",
+TOPICS_ENUM = list(TOPIC_DESCRIPTIONS.keys())
 
-    "people.family_relationships",
-    "people.body_health",
-    "people.clothes_fashion",
-    "people.personal_qualities",
-    "people.physical_appearance",
-    "people.feelings_emotions",
-
-    "daily_life.home_buildings",
-    "daily_life.travel_transport",
-    "daily_life.work_school",
-    "daily_life.leisure_sport",
-    "daily_life.animals",
-    "daily_life.media_entertainment",
-
-    "extra_advanced.politics_society",
-    "extra_advanced.science_technology",
-    "extra_advanced.environment",
-    "extra_advanced.business_economy",
-    "extra_advanced.culture_art",
-    "extra_advanced.religion",
-]
+def build_topics_prompt_block() -> str:
+    """Erzeugt den lesbaren Topics-Block für den Systemprompt, inkl. Pfeil-Beschreibung."""
+    lines = []
+    # Optional: gruppiert ausgeben (nur für schöne Struktur im Prompt)
+    groups = [
+        ("🟢 Basic Needs", [
+            "basic_needs.social_interactions", "basic_needs.food_drink",
+            "basic_needs.shopping_money", "basic_needs.numbers",
+            "basic_needs.time_date", "basic_needs.colours",
+            "basic_needs.weather", "basic_needs.nature"
+        ]),
+        ("👥 People", [
+            "people.family_relationships", "people.body_health",
+            "people.clothes_fashion", "people.personal_qualities",
+            "people.physical_appearance", "people.feelings_emotions"
+        ]),
+        ("🏠 Daily Life", [
+            "daily_life.home_buildings", "daily_life.travel_transport",
+            "daily_life.work_school", "daily_life.leisure_sport",
+            "daily_life.animals", "daily_life.media_entertainment"
+        ]),
+        ("📈 Extra Advanced", [
+            "extra_advanced.politics_society", "extra_advanced.science_technology",
+            "extra_advanced.environment", "extra_advanced.business_economy",
+            "extra_advanced.culture_art", "extra_advanced.religion"
+        ]),
+    ]
+    for title, keys in groups:
+        lines.append(title + ":")
+        for k in keys:
+            lines.append(f"- {k} → {TOPIC_DESCRIPTIONS[k]}")
+        lines.append("")  # Leerzeile zwischen Gruppen
+    return "\n".join(lines).strip()
 
 FREQ_ENUM = ["basic", "common", "rare"]
 FORMAL_ENUM = ["formal", "neutral", "informal"]
@@ -74,10 +115,12 @@ IMPORTANT RULES:
 - Decide topics first (0–3), then independently set frequency and formality.
 - Return ONLY compact JSON. No extra text.
 
-TOPICS LIST:
-""" + "\n".join(TOPICS_ENUM) + """
+
+TOPICS (with short hints):
+{build_topics_prompt_block()}
+
 FORMAT:
-{"frequency_level":"...", "formality_level":"...", "topics":["...", "..."]}
+{{"frequency_level":"...", "formality_level":"...", "topics":["...", "..."]}}
 """
 
 def call_api(client: OpenAI, entry: Dict[str, Any]) -> Dict[str, Any]:
