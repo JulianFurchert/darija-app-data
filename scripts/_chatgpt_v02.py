@@ -143,13 +143,34 @@ def validate_and_normalize(result: Dict[str, Any]) -> Tuple[Dict[str, Any], List
 
 def enrich_file(input_path: str, output_path: str, log_path: str):
     client = OpenAI(api_key=OPENAI_API_KEY)  # explizit mit Key initialisieren
+
+    # Bereits vorhandene IDs aus Output laden (falls Datei existiert)
+    already_done = set()
+    out: List[Dict[str, Any]] = []
+    logs: List[Dict[str, Any]] = []
+    if Path(output_path).exists():
+        try:
+            out = json.loads(Path(output_path).read_text(encoding="utf-8"))
+            already_done = {e.get("id") for e in out if e.get("id")}
+        except Exception:
+            out = []
+            already_done = set()
+    if Path(log_path).exists():
+        try:
+            logs = [json.loads(line) for line in Path(log_path).read_text(encoding="utf-8").splitlines() if line.strip()]
+        except Exception:
+            logs = []
+
     data = json.loads(Path(input_path).read_text(encoding="utf-8"))
 
-    logs: List[Dict[str, Any]] = []
-    out: List[Dict[str, Any]] = []
+    # Mapping von ID auf Index in out (für schnelles Überschreiben)
+    out_idx = {e.get("id"): i for i, e in enumerate(out) if e.get("id")}
 
     for idx, entry in enumerate(data):
-        # Nur ausfüllen, wenn (noch) leer bzw. Standard:
+        entry_id = entry.get("id")
+        if entry_id in already_done:
+            continue
+
         needs_enrichment = (
             entry.get("frequency_level") in (None, "", "null") or
             entry.get("formality_level") in (None, "", "null") or
@@ -159,18 +180,17 @@ def enrich_file(input_path: str, output_path: str, log_path: str):
 
         if not needs_enrichment:
             out.append(entry)
+            already_done.add(entry_id)
             continue
 
         try:
             raw = call_api(client, entry)
             normalized, warns = validate_and_normalize(raw)
 
-            # Felder in den Eintrag schreiben
             entry["frequency_level"] = normalized.get("frequency_level")
             entry["formality_level"] = normalized.get("formality_level")
             entry["topics"] = normalized.get("topics", [])
 
-            # validation nicht überschreiben – nur erweitern
             v = entry.get("validation", {}) or {}
             v.setdefault("enrichment", {})
             v["enrichment"]["model"] = MODEL
@@ -180,7 +200,6 @@ def enrich_file(input_path: str, output_path: str, log_path: str):
                 v["warnings"].extend(warns)
             entry["validation"] = v
 
-            # Log für dieses Item
             logs.append({
                 "id": entry.get("id"),
                 "darija": entry.get("darija"),
@@ -191,7 +210,6 @@ def enrich_file(input_path: str, output_path: str, log_path: str):
             })
 
         except Exception as e:
-            # Fehler notieren, Eintrag ansonsten unverändert lassen
             v = entry.get("validation", {}) or {}
             v.setdefault("errors", [])
             v["errors"].append(f"enrichment_error: {str(e)}")
@@ -205,9 +223,18 @@ def enrich_file(input_path: str, output_path: str, log_path: str):
             })
 
         out.append(entry)
+        already_done.add(entry_id)
+
+        # Alle 10 Einträge flushen
+        if len(out) % 10 == 0:
+            Path(output_path).write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
+            with Path(log_path).open("w", encoding="utf-8") as f:
+                for row in logs:
+                    f.write(json.dumps(row, ensure_ascii=False) + "\n")
+
         time.sleep(RATE_LIMIT_S)
 
-    # Outputs schreiben
+    # Am Ende alles nochmal speichern
     Path(output_path).write_text(json.dumps(out, ensure_ascii=False, indent=2), encoding="utf-8")
     with Path(log_path).open("w", encoding="utf-8") as f:
         for row in logs:
