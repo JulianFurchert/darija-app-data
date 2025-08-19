@@ -83,10 +83,11 @@
       "items": {
         "type": "string",
         "enum": [
-          "basic_needs.greetings",
+          "basic_needs.social_interactions",
           "basic_needs.food_drink",
           "basic_needs.shopping_money",
-          "basic_needs.time_numbers",
+          "basic_needs.numbers",
+          "basic_needs.time_date",
           "basic_needs.colours",
           "basic_needs.weather",
           "basic_needs.nature",
@@ -96,24 +97,21 @@
           "people.clothes_fashion",
           "people.personal_qualities",
           "people.physical_appearance",
+          "people.feelings_emotions",
 
           "daily_life.home_buildings",
           "daily_life.travel_transport",
           "daily_life.work_school",
           "daily_life.leisure_sport",
           "daily_life.animals",
-
-          "emotions.feelings_emotions",
-
-          "culture.religion",
-          "culture.traditions",
-          "culture.arts_media",
+          "daily_life.media_entertainment",
 
           "extra_advanced.politics_society",
           "extra_advanced.science_technology",
           "extra_advanced.environment",
           "extra_advanced.business_economy",
-          "extra_advanced.other"
+          "extra_advanced.culture_art",
+          "extra_advanced.religion"
         ]
       },
       "uniqueItems": true,
