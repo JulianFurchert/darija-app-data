@@ -40,7 +40,7 @@
 
     "FrequencyLevel": {
       "type": ["string", "null"],
-      "enum": ["basic", "everyday", "extended", null],
+      "enum": ["basic", "common", "rare", null],
       "description": "Indicates how common/essential the word is in everyday Darija usage"
     },
 

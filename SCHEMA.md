@@ -124,7 +124,7 @@ Zusätzlich zu Übersetzungen können **kurze Lernhilfen** ergänzt werden:
   "class": "expression",
   "frequency_level": "basic",
   "formality_level": "neutral",
-  "topics": ["basic_needs.greetings"],
+  "topics": ["basic_needs.social_interactions"],
   "user_summary_en": "Common greeting used at any time of the day.",
   "user_summary_de": "Allgemeine Begrüßung, zu jeder Tageszeit."
 }
