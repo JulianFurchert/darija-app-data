@@ -41,3 +41,7 @@ For questions or contributions, please open an issue or contact the repository m
 ```
 check-jsonschema --schemafile schema.json data/dataset-v01.json
 ```
+
+```
+jsondiffpatch data/dataset-v02.json data/dataset-v02.enriched.json > diff.json
+```
