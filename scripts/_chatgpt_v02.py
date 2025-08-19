@@ -69,7 +69,7 @@ Given ONE entry (Darija in Arabizi + optional Arabic script + translations + wor
 
 IMPORTANT RULES:
 - Topics are THEMATIC; include ANY part of speech (nouns, verbs, adjectives, phrases). Do not restrict topics to nouns.
-- Assign topics ONLY if there is a clear fit; if uncertain, return an EMPTY ARRAY [].
+- Assign topics ONLY if there is a good fit; if uncertain, return an EMPTY ARRAY [].
 - Use ONLY items from the provided list; do not invent categories.
 - Decide topics first (0–3), then independently set frequency and formality.
 - Return ONLY compact JSON. No extra text.
